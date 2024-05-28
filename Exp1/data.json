@@ -1,0 +1,121 @@
+{
+    "tipoCambio":{
+        "historial": [
+            {"nombre": "Primer Pago",
+                "concepto": "Mercancia",
+                "tipoCambio":16.94,
+                "dolares":   26804.74,
+                "monedaNacional":454072.30 },
+            {"nombre": "Segundo Pago",
+                "concepto": "Mercancia",
+                "tipoCambio":16.57,
+                "dolares":   26804.74,
+                "monedaNacional":454072.30 },
+            {"nombre": "Flete Marino + Seguimiento",
+                "concepto": "Mercancia",
+                "tipoCambio":16.57,
+                "dolares":   8056.74,
+                "monedaNacional":133863.30 }
+                    ],
+        "globales": {
+            "tipoCambio": 16.755,
+            "totalDolares": 54915.84,
+            "monedaNacional": 919863.94,
+            "porcentajeIVA":16
+        }
+    },
+    "productos":[
+        {
+            "informacionGeneral":{
+                "claveProducto": "General medical cown",
+                "descripcionProducto":"Bata  Quirúrgica desechable",
+                "piezas":"Piezas"
+            },
+            "datosPedimiento":{
+                "importeMNAduana": 355725.3,
+                "flete": 38647.7,
+                "total": 394373,
+                "unidades": 30000,
+                "costoUnitario": 13.75
+            },
+            "A1":{
+                "costoUnitarioUSD":7.5,
+                "importeUSD": 3750.00,
+                "importeMN": 62831.24,
+                "costoUnitarioMN": 11.75
+            },
+            "A2":{
+                "despachoAduanalMN":1,
+                "despachoAduanalMNUnit":1
+            },
+            "A3":{
+                "fleteMarinoTerrestre": 1,
+                "fleteUnit": 1
+            },
+            "A4":{
+                "seguro": 1,
+                "seguroUnit":1
+            },
+            "A5":{
+                "otrosCuentaAduanera":1,
+                "otrosUnit":1
+            },
+            "A6":{
+                "certificaciones": 1,
+                "certificacionesUnit": 1
+            },
+            "A7":{
+                "prevalidacion": 1,
+                "prevalidacionUnit": 1,
+                "porcentajeTDA":8,
+                "DTA":1,
+                "importeDTA": 1006.58
+            },
+            "A8":{
+                "porcentajeIGI": 20,
+                "IGI": 2.33,
+                "importeIGI": 25164.30
+            },
+            "A9": {
+                "IVA":2.54,
+                "importeIVA": 38112.30
+            },
+            "costoTotal":{
+                "subtotal":1111,
+                "totalCostoFinal": 11111,
+                "sCostoMecia": 1,
+                "importe": 112
+            },
+            "B1":{
+                "precioVentaPropuesto":999,
+                "utilidadArticulo": 112,
+                "importe":123,
+                "porcentajeGanancia": 23,
+                "valor1": 12,
+                "valor2": 23,
+                "valor3": 34,
+                "valor4": 45
+            },
+            "B2":{
+                "precioVentaPropuesto": 34,
+                "porcentajeGanancia": 10,
+                "porcentajeIVA": 16,
+                "IVA": 11.62,
+                "precioFinalIVA": 81.2
+            },
+            "propuestaPropia":{
+                "precioVentaPropuesto": 48,
+                "porcentajeGanancia": 51,
+                "IVA": 7.68,
+                "precioFinalIVA": 55.68
+            },
+            "propuestaSuperior":{
+                "precioVentaArriba100":64,
+                "porcentajeGanancia":12,
+                "IVA":16,
+                "precioFinalIVA":72.4
+            }
+        }
+    ],
+    "totales":{}
+}
