@@ -1,0 +1,327 @@
+2024-05-29 14:58:24,667 - ERROR - '6578d3e7ab7565423a85e11' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 14:58:38,572 - ERROR - '666578d3e7ab7565423a85e11' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 15:49:02,550 - ERROR - '6578d3e7ab7565423a85e11' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 16:00:18,544 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4101
+2024-05-29 16:00:18,544 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 16:00:18,548 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:00:19,094 - WARNING -  * Debugger is active!
+2024-05-29 16:00:19,094 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:00:25,724 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:00:25,730 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:00:26,325 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:00:26,331 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:00:26,613 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:00:27,118 - WARNING -  * Debugger is active!
+2024-05-29 16:00:27,118 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:00:27,725 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:27,731 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:28,002 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:28,004 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:28,545 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:00:29,063 - WARNING -  * Debugger is active!
+2024-05-29 16:00:29,063 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:00:29,871 - INFO - 192.168.100.2 - - [29/May/2024 16:00:29] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:00:43,855 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:43,861 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:44,045 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:44,046 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:44,542 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:00:45,040 - WARNING -  * Debugger is active!
+2024-05-29 16:00:45,040 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:00:49,314 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:49,320 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:00:49,545 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:00:50,051 - WARNING -  * Debugger is active!
+2024-05-29 16:00:50,052 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:00:51,802 - INFO - 192.168.100.2 - - [29/May/2024 16:00:51] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:01:17,409 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:01:17,417 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:01:17,546 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:01:18,039 - WARNING -  * Debugger is active!
+2024-05-29 16:01:18,040 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:01:30,310 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:01:30,310 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:01:30,316 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:01:30,475 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:01:30,477 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:01:30,616 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:01:31,115 - WARNING -  * Debugger is active!
+2024-05-29 16:01:31,115 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:01:32,323 - INFO - 192.168.100.2 - - [29/May/2024 16:01:32] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:02:07,220 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:07,221 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:07,809 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:02:08,299 - WARNING -  * Debugger is active!
+2024-05-29 16:02:08,300 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:02:08,803 - INFO - 192.168.100.2 - - [29/May/2024 16:02:08] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:02:33,051 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:33,051 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:33,058 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:33,225 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:33,226 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:33,826 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:02:34,307 - WARNING -  * Debugger is active!
+2024-05-29 16:02:34,308 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:02:35,919 - INFO - 192.168.100.2 - - [29/May/2024 16:02:35] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:02:53,915 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:53,917 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:02:54,812 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:02:55,306 - WARNING -  * Debugger is active!
+2024-05-29 16:02:55,307 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:02:55,782 - INFO - 192.168.100.2 - - [29/May/2024 16:02:55] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:03:39,953 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:03:39,959 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:03:40,339 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:03:40,340 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:03:40,346 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:03:41,038 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:03:41,529 - WARNING -  * Debugger is active!
+2024-05-29 16:03:41,530 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:03:43,705 - INFO - 192.168.100.2 - - [29/May/2024 16:03:43] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:04:15,233 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:15,241 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:15,422 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:15,423 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:15,581 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:15,583 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:15,749 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:15,751 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:16,244 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:04:16,752 - WARNING -  * Debugger is active!
+2024-05-29 16:04:16,753 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:04:17,251 - INFO - 192.168.100.2 - - [29/May/2024 16:04:17] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:04:39,263 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:39,270 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:04:39,365 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:04:39,865 - WARNING -  * Debugger is active!
+2024-05-29 16:04:39,866 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:04:40,971 - INFO - 192.168.100.2 - - [29/May/2024 16:04:40] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:04:48,594 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4101
+2024-05-29 16:04:48,594 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 16:04:48,598 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:04:49,094 - WARNING -  * Debugger is active!
+2024-05-29 16:04:49,094 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:04:52,244 - INFO - 192.168.100.2 - - [29/May/2024 16:04:52] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:04:59,457 - INFO - 192.168.100.2 - - [29/May/2024 16:04:59] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:05:05,569 - ERROR - '6578d3e7ab7565423a85e11' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 16:05:05,570 - INFO - 192.168.100.2 - - [29/May/2024 16:05:05] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:05:18,169 - ERROR - '6578d3e7ab7565423a85e11' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 16:05:18,169 - INFO - 192.168.100.2 - - [29/May/2024 16:05:18] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:05:25,516 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4101
+2024-05-29 16:05:25,516 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 16:05:25,520 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:05:26,015 - WARNING -  * Debugger is active!
+2024-05-29 16:05:26,016 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:05:27,823 - ERROR - '6578d3e7ab7565423a85e11' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 16:05:27,824 - INFO - 192.168.100.2 - - [29/May/2024 16:05:27] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:05:35,694 - ERROR - '6578d3e7ab7565423a85e11' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 16:05:35,694 - INFO - 192.168.100.2 - - [29/May/2024 16:05:35] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:05:46,045 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4101
+2024-05-29 16:05:46,045 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 16:05:46,048 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:05:46,535 - WARNING -  * Debugger is active!
+2024-05-29 16:05:46,536 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:05:48,564 - INFO - 192.168.100.2 - - [29/May/2024 16:05:48] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:06:08,910 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:06:08,917 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:06:09,183 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:06:09,672 - WARNING -  * Debugger is active!
+2024-05-29 16:06:09,673 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:06:10,143 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:06:10,147 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:06:11,188 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:06:11,680 - WARNING -  * Debugger is active!
+2024-05-29 16:06:11,680 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:06:12,183 - INFO - 192.168.100.2 - - [29/May/2024 16:06:12] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:06:31,124 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:06:31,130 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:06:31,336 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:06:31,826 - WARNING -  * Debugger is active!
+2024-05-29 16:06:31,826 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:06:34,256 - INFO - 192.168.100.2 - - [29/May/2024 16:06:34] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:06:58,297 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:06:58,303 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:06:58,434 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:06:58,925 - WARNING -  * Debugger is active!
+2024-05-29 16:06:58,925 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:07:01,061 - INFO - 192.168.100.2 - - [29/May/2024 16:07:01] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:11:02,602 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:11:02,608 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:11:03,694 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:11:04,190 - WARNING -  * Debugger is active!
+2024-05-29 16:11:04,191 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:12:43,890 - INFO - 192.168.100.2 - - [29/May/2024 16:12:43] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:14:16,276 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:14:16,282 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:14:16,674 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:14:17,165 - WARNING -  * Debugger is active!
+2024-05-29 16:14:17,165 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:14:20,430 - INFO - 192.168.100.2 - - [29/May/2024 16:14:20] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:18:01,476 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:18:01,482 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:18:01,871 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:18:02,366 - WARNING -  * Debugger is active!
+2024-05-29 16:18:02,366 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:18:10,376 - INFO - 192.168.100.2 - - [29/May/2024 16:18:10] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:19:58,247 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:19:58,254 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:19:58,437 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:19:58,931 - WARNING -  * Debugger is active!
+2024-05-29 16:19:58,931 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:20:38,741 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:20:38,747 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:20:38,968 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:20:38,970 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:20:39,623 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:20:40,113 - WARNING -  * Debugger is active!
+2024-05-29 16:20:40,113 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:20:40,997 - INFO - 192.168.100.2 - - [29/May/2024 16:20:40] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:21:31,388 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:21:31,393 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:21:31,673 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:21:31,674 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:21:31,932 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:21:32,428 - WARNING -  * Debugger is active!
+2024-05-29 16:21:32,429 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:21:33,501 - INFO - 192.168.100.2 - - [29/May/2024 16:21:33] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:21:38,321 - INFO - 192.168.100.2 - - [29/May/2024 16:21:38] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:22:02,656 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:22:02,662 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:22:03,051 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:22:03,544 - WARNING -  * Debugger is active!
+2024-05-29 16:22:03,544 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:22:04,428 - INFO - 192.168.100.2 - - [29/May/2024 16:22:04] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:22:34,173 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:22:34,179 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:22:34,359 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:22:34,360 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:22:35,259 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:22:35,754 - WARNING -  * Debugger is active!
+2024-05-29 16:22:35,754 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:23:04,664 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:04,671 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:04,853 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:04,855 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:05,035 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:05,037 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:05,438 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:23:05,931 - WARNING -  * Debugger is active!
+2024-05-29 16:23:05,931 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:23:06,756 - INFO - 192.168.100.2 - - [29/May/2024 16:23:06] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:23:39,896 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:39,899 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:40,152 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:40,154 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:40,483 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:23:40,979 - WARNING -  * Debugger is active!
+2024-05-29 16:23:40,980 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:23:41,708 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:41,714 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:41,922 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:41,924 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:42,057 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:42,059 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:42,201 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:42,202 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:42,338 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:42,340 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:23:42,528 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:23:43,027 - WARNING -  * Debugger is active!
+2024-05-29 16:23:43,027 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:23:57,413 - INFO - 192.168.100.2 - - [29/May/2024 16:23:57] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:24:23,082 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:24:23,085 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:24:23,298 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:24:23,298 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:24:23,300 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:24:23,615 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:24:24,114 - WARNING -  * Debugger is active!
+2024-05-29 16:24:24,114 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:24:25,158 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:24:25,158 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:24:25,537 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:24:26,030 - WARNING -  * Debugger is active!
+2024-05-29 16:24:26,030 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:24:26,516 - INFO - 192.168.100.2 - - [29/May/2024 16:24:26] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:25:25,561 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:25:25,568 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:25:25,877 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:25:26,370 - WARNING -  * Debugger is active!
+2024-05-29 16:25:26,371 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:25:26,915 - INFO - 192.168.100.2 - - [29/May/2024 16:25:26] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:26:28,741 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:26:28,743 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:26:29,030 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:26:29,031 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:26:29,160 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:26:29,658 - WARNING -  * Debugger is active!
+2024-05-29 16:26:29,659 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:26:31,309 - INFO - 192.168.100.2 - - [29/May/2024 16:26:31] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:26:54,645 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:26:54,651 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:26:54,824 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:26:54,825 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:26:55,337 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:26:55,838 - WARNING -  * Debugger is active!
+2024-05-29 16:26:55,839 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:26:56,997 - INFO - 192.168.100.2 - - [29/May/2024 16:26:56] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:27:06,990 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:27:06,992 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:27:07,277 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:27:07,777 - WARNING -  * Debugger is active!
+2024-05-29 16:27:07,778 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:27:16,440 - INFO - 192.168.100.2 - - [29/May/2024 16:27:16] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:27:32,914 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:27:32,921 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:27:33,015 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:27:33,017 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:27:33,465 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:27:33,960 - WARNING -  * Debugger is active!
+2024-05-29 16:27:33,960 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:30:59,586 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4101
+2024-05-29 16:30:59,587 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-29 16:30:59,590 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:31:00,083 - WARNING -  * Debugger is active!
+2024-05-29 16:31:00,084 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:31:07,115 - INFO - 192.168.100.2 - - [29/May/2024 16:31:07] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:31:18,630 - ERROR - '66578d3e7ab7565423a85e111' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 16:31:18,630 - INFO - 192.168.100.2 - - [29/May/2024 16:31:18] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:32:01,690 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:32:01,696 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:32:01,918 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:32:02,424 - WARNING -  * Debugger is active!
+2024-05-29 16:32:02,424 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:32:03,557 - ERROR - '66578d3e7ab7565423a85e111' is not a valid ObjectId, it must be a 12-byte input or a 24-character hex string
+2024-05-29 16:32:03,558 - INFO - 192.168.100.2 - - [29/May/2024 16:32:03] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:32:27,196 - INFO - 192.168.100.2 - - [29/May/2024 16:32:27] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:33:09,910 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:33:09,911 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:33:09,916 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:33:10,360 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:33:10,853 - WARNING -  * Debugger is active!
+2024-05-29 16:33:10,853 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:33:46,820 - INFO - 192.168.100.2 - - [29/May/2024 16:33:46] "[31m[1mPOST /KPI HTTP/1.1[0m" 400 -
+2024-05-29 16:33:51,391 - INFO - 192.168.100.2 - - [29/May/2024 16:33:51] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-05-29 16:33:59,435 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:33:59,442 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:34:00,554 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:34:01,046 - WARNING -  * Debugger is active!
+2024-05-29 16:34:01,046 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:34:01,429 - INFO - 192.168.100.2 - - [29/May/2024 16:34:01] "POST /KPI HTTP/1.1" 200 -
+2024-05-29 16:40:19,036 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:40:19,044 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:40:19,301 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:40:19,301 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-29 16:40:19,415 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:40:19,908 - WARNING -  * Debugger is active!
+2024-05-29 16:40:19,908 - INFO -  * Debugger PIN: 588-413-621
+2024-05-29 16:40:23,851 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:40:23,852 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-29 16:40:24,334 - INFO -  * Restarting with watchdog (inotify)
+2024-05-29 16:40:24,827 - WARNING -  * Debugger is active!
+2024-05-29 16:40:24,828 - INFO -  * Debugger PIN: 588-413-621

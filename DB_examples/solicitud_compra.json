@@ -1,32 +1,27 @@
 {
-    "_id": {
-      "$oid": "6647858269df2e24951c9cea"
+  "_id": {
+    "$oid": "665787757ab7565423a85dee"
+  },
+  "id_order": "JCA_7",
+  "products": [
+    {
+      "sku": "SEXTOY1",
+      "nombre": "ANILLO DE LUJURIA pene vibrante y anillo de bolas",
+      "cantidad": 20
     },
-    "id_order": "IMD_1",
-    "products": [
-      {
-        "sku": "SEXTOY1",
-        "nombre": "ANILLO DE LUJURIA pene vibrante y anillo de bolas",
-        "cantidad": 32
-      },
-      {
-        "sku": "SEXTOY3",
-        "nombre": "potenciador - manga ondulada",
-        "cantidad": 1
-      },
-      {
-        "sku": "SEXTOY5",
-        "nombre": "POTENCIADOR - Manga de cuentas 7X",
-        "cantidad": 233
-      },
-      {
-        "sku": "SEXTOY6",
-        "nombre": "UTOPÍA - Stroker transparente",
-        "cantidad": 1
-      }
-    ],
-    "date": {
-      "$date": "2024-05-17T10:27:46.897Z"
+    {
+      "sku": "SEXTOY4",
+      "nombre": "EXTENSOR - manga del pene",
+      "cantidad": 22
     },
-    "status": "Solicitado"
-  }
+    {
+      "sku": "SEXTOY7",
+      "nombre": "PLACER DE CABEZA - Stroker de pene de silicona",
+      "cantidad": 22
+    }
+  ],
+  "date": {
+    "$date": "2024-05-29T13:52:21.798Z"
+  },
+  "status": "Solicitado"
+}

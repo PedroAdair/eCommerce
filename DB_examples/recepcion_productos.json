@@ -1,1287 +1,267 @@
 {
-    "_id": {
-      "$oid": "6643b0a485527f7816a40a7e"
+  "_id": {
+    "$oid": "66578d3e7ab7565423a85e11"
+  },
+  "id_order": "JCA_7",
+  "products": [
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 0
     },
-    "id_order": "JAX_01",
-    "products": [
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 0
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 1
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 2
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 3
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 4
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 5
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 6
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 7
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 8
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 9
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 10
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 11
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 12
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 13
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 14
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 15
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 16
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 17
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 18
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 19
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 20
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 21
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 22
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 23
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 24
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 25
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 26
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 27
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 28
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 29
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 30
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 31
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 32
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 33
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 34
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 35
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 36
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 37
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 38
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 39
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 40
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 41
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 42
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 43
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 44
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 45
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 46
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 47
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 48
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 49
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 50
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 51
-      },
-      {
-        "sku": "SEXTOY68",
-        "serial_num": 52
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 53
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 54
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 55
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 56
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 57
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 58
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 59
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 60
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 61
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 62
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 63
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 64
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 65
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 66
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 67
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 68
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 69
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 70
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 71
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 72
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 73
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 74
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 75
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 76
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 77
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 78
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 79
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 80
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 81
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 82
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 83
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 84
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 85
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 86
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 87
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 88
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 89
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 90
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 91
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 92
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 93
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 94
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 95
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 96
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 97
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 98
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 99
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 100
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 101
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 102
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 103
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 104
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 105
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 106
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 107
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 108
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 109
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 110
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 111
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 112
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 113
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 114
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 115
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 116
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 117
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 118
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 119
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 120
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 121
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 122
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 123
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 124
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 125
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 126
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 127
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 128
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 129
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 130
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 131
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 132
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 133
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 134
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 135
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 136
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 137
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 138
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 139
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 140
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 141
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 142
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 143
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 144
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 145
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 146
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 147
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 148
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 149
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 150
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 151
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 152
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 153
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 154
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 155
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 156
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 157
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 158
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 159
-      },
-      {
-        "sku": "SEXTOY51",
-        "serial_num": 160
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 161
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 162
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 163
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 164
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 165
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 166
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 167
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 168
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 169
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 170
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 171
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 172
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 173
-      },
-      {
-        "sku": "SEXTOY32",
-        "serial_num": 174
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 175
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 176
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 177
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 178
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 179
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 180
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 181
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 182
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 183
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 184
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 185
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 186
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 187
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 188
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 189
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 190
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 191
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 192
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 193
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 194
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 195
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 196
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 197
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 198
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 199
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 200
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 201
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 202
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 203
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 204
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 205
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 206
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 207
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 208
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 209
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 210
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 211
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 212
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 213
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 214
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 215
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 216
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 217
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 218
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 219
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 220
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 221
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 222
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 223
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 224
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 225
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 226
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 227
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 228
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 229
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 230
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 231
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 232
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 233
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 234
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 235
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 236
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 237
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 238
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 239
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 240
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 241
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 242
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 243
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 244
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 245
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 246
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 247
-      },
-      {
-        "sku": "SEXTOY111",
-        "serial_num": 248
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 249
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 250
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 251
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 252
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 253
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 254
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 255
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 256
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 257
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 258
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 259
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 260
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 261
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 262
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 263
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 264
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 265
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 266
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 267
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 268
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 269
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 270
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 271
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 272
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 273
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 274
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 275
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 276
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 277
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 278
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 279
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 280
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 281
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 282
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 283
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 284
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 285
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 286
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 287
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 288
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 289
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 290
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 291
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 292
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 293
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 294
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 295
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 296
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 297
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 298
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 299
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 300
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 301
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 302
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 303
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 304
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 305
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 306
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 307
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 308
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 309
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 310
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 311
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 312
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 313
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 314
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 315
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 316
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 317
-      },
-      {
-        "sku": "SEXTOY6",
-        "serial_num": 318
-      }
-    ],
-    "date": {
-      "$date": "2024-05-14T12:41:39.769Z"
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 1
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 2
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 3
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 4
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 5
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 6
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 7
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 8
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 9
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 10
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 11
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 12
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 13
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 14
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 15
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 16
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 17
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 18
+    },
+    {
+      "sku": "SEXTOY1",
+      "serial_num": 19
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 20
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 21
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 22
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 23
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 24
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 25
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 26
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 27
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 28
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 29
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 30
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 31
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 32
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 33
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 34
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 35
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 36
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 37
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 38
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 39
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 40
+    },
+    {
+      "sku": "SEXTOY4",
+      "serial_num": 41
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 42
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 43
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 44
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 45
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 46
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 47
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 48
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 49
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 50
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 51
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 52
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 53
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 54
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 55
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 56
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 57
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 58
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 59
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 60
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 61
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 62
+    },
+    {
+      "sku": "SEXTOY7",
+      "serial_num": 63
     }
+  ],
+  "date": {
+    "$date": "2024-05-29T14:17:02.980Z"
   }
+}
