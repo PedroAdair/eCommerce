@@ -1,0 +1,74 @@
+{
+    "tipoCambio":{
+        "historial": [
+            {"nombre": "Primer Pago",
+                "concepto": "Mercancia",
+                "tipoCambio":16.94,
+                "dolares":   26804.74},
+            {"nombre": "Segundo Pago",
+                "concepto": "Mercancia",
+                "tipoCambio":16.57,
+                "dolares":   26804.74,
+                "monedaNacional":454072.30 },
+            {"nombre": "Flete Marino + Seguimiento",
+                "concepto": "Mercancia",
+                "tipoCambio":16.57,
+                "dolares":   8056.74,
+                "monedaNacional":133863.30 }
+                    ],
+        "globales": {
+            "porcentajeIVA":16
+        }
+    },
+    "productos":[
+        {
+            "informacionGeneral":{
+                "claveProducto": "General medical cown",
+                "descripcionProducto":"Bata  Quirúrgica desechable",
+                "piezas":"Piezas"
+            },
+            "datosPedimiento":{
+                "importeMNAduana": 355725.3,
+                "flete": 38647.7,
+                "unidades": 30000
+            },
+            "A1":{
+                "costoUnitarioUSD":7.5
+            },
+            "A2":{
+            },
+            "A3":{
+            },
+            "A4":{
+            },
+            "A5":{
+            },
+            "A6":{
+            },
+            "A7":{
+                "prevalidacion": 1,
+                "porcentajeTDA":8
+            },
+            "A8":{
+                "porcentajeIGI": 20
+            },
+            "A9": {
+            },
+            "costoTotal":{
+            },
+            "B1":{
+                "precioVentaPropuesto":999
+            },
+            "B2":{
+                "precioVentaPropuesto": 34
+            },
+            "propuestaPropia":{
+                "precioVentaPropuesto": 48
+            },
+            "propuestaSuperior":{
+                "precioVentaArriba100":64
+            }
+        }
+    ],
+    "totales":{}
+}

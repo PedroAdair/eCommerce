@@ -1,7 +1,7 @@
 from flask import Flask, jsonify , request
 from flask_cors import CORS
 import yaml 
-from func import *
+from recepcionProductos import *
 
 with open('config.yaml', "r") as f:
     config = yaml.safe_load(f)

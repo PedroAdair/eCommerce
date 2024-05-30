@@ -325,3 +325,364 @@
 2024-05-29 16:40:24,334 - INFO -  * Restarting with watchdog (inotify)
 2024-05-29 16:40:24,827 - WARNING -  * Debugger is active!
 2024-05-29 16:40:24,828 - INFO -  * Debugger PIN: 588-413-621
+2024-05-30 08:13:11,989 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4101
+2024-05-30 08:13:11,989 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-30 08:13:11,993 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 08:13:12,488 - WARNING -  * Debugger is active!
+2024-05-30 08:13:12,488 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 08:13:17,951 - INFO - 192.168.100.2 - - [30/May/2024 08:13:17] "POST /KPI HTTP/1.1" 200 -
+2024-05-30 08:15:30,062 - INFO - 192.168.100.6 - - [30/May/2024 08:15:30] "POST /KPI HTTP/1.1" 200 -
+2024-05-30 08:16:28,350 - INFO - 192.168.100.6 - - [30/May/2024 08:16:28] "POST /KPI HTTP/1.1" 200 -
+2024-05-30 08:16:38,000 - INFO - 192.168.100.6 - - [30/May/2024 08:16:38] "POST /KPI HTTP/1.1" 200 -
+2024-05-30 08:30:57,437 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/func.py', reloading
+2024-05-30 08:30:58,254 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 08:32:40,055 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4101
+2024-05-30 08:32:40,055 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-30 08:32:40,058 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 08:32:40,549 - WARNING -  * Debugger is active!
+2024-05-30 08:32:40,549 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 08:34:12,531 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 08:34:12,536 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 08:34:13,495 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 08:34:14,009 - WARNING -  * Debugger is active!
+2024-05-30 08:34:14,010 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 08:55:02,320 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-30 08:55:02,326 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-05-30 08:55:02,825 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 08:55:03,316 - WARNING -  * Debugger is active!
+2024-05-30 08:55:03,317 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 08:56:26,422 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 08:56:26,427 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 08:56:26,670 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 08:56:26,671 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 08:56:27,309 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 08:56:27,798 - WARNING -  * Debugger is active!
+2024-05-30 08:56:27,799 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:25:26,991 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:25:26,997 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:25:27,194 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:25:27,195 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:25:27,949 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:25:28,434 - WARNING -  * Debugger is active!
+2024-05-30 09:25:28,434 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:25:36,300 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:25:36,301 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:25:36,999 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:25:37,501 - WARNING -  * Debugger is active!
+2024-05-30 09:25:37,502 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:26:54,072 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:26:54,074 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:26:54,439 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:26:54,928 - WARNING -  * Debugger is active!
+2024-05-30 09:26:54,928 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:27:05,068 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:27:05,073 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:27:05,344 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:27:05,844 - WARNING -  * Debugger is active!
+2024-05-30 09:27:05,844 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:27:27,634 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:27:27,640 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:27:28,485 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:27:28,975 - WARNING -  * Debugger is active!
+2024-05-30 09:27:28,975 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:27:48,045 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:27:48,052 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:27:48,603 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:27:49,089 - WARNING -  * Debugger is active!
+2024-05-30 09:27:49,089 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:28:06,510 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:28:06,516 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:28:06,698 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:28:07,183 - WARNING -  * Debugger is active!
+2024-05-30 09:28:07,184 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:28:36,503 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:28:36,509 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:28:36,739 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:28:36,740 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:28:36,845 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:28:37,338 - WARNING -  * Debugger is active!
+2024-05-30 09:28:37,338 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:28:59,783 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:28:59,789 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:28:59,992 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:29:00,478 - WARNING -  * Debugger is active!
+2024-05-30 09:29:00,479 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:29:31,706 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:29:31,712 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:29:31,842 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:29:31,843 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:29:32,033 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:29:32,523 - WARNING -  * Debugger is active!
+2024-05-30 09:29:32,523 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:29:40,844 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:29:40,850 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:29:41,096 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:29:41,583 - WARNING -  * Debugger is active!
+2024-05-30 09:29:41,583 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:30:33,749 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:33,755 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:33,994 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:33,996 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:34,308 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:30:34,798 - WARNING -  * Debugger is active!
+2024-05-30 09:30:34,799 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:30:36,951 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:36,957 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:37,252 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:30:37,741 - WARNING -  * Debugger is active!
+2024-05-30 09:30:37,741 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:30:59,636 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:59,642 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:59,866 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:59,868 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:59,993 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:30:59,994 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 09:31:00,372 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:31:00,874 - WARNING -  * Debugger is active!
+2024-05-30 09:31:00,874 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 09:31:23,622 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:31:23,628 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:31:23,811 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:31:23,812 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 09:31:24,366 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 09:31:24,856 - WARNING -  * Debugger is active!
+2024-05-30 09:31:24,857 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:41:29,966 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:41:29,972 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:41:30,217 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:41:30,721 - WARNING -  * Debugger is active!
+2024-05-30 11:41:30,722 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:46:43,777 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:46:43,782 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:46:44,086 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:46:44,584 - WARNING -  * Debugger is active!
+2024-05-30 11:46:44,585 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:46:54,826 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:46:54,832 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:46:55,041 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:46:55,539 - WARNING -  * Debugger is active!
+2024-05-30 11:46:55,540 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:52:48,753 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:52:48,754 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:52:48,755 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:52:49,768 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:52:50,258 - WARNING -  * Debugger is active!
+2024-05-30 11:52:50,258 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:52:59,853 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:52:59,854 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:00,761 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:53:01,250 - WARNING -  * Debugger is active!
+2024-05-30 11:53:01,251 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:53:08,006 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:08,013 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:08,244 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:08,246 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:08,766 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:53:09,261 - WARNING -  * Debugger is active!
+2024-05-30 11:53:09,261 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:53:18,685 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:18,691 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:19,730 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:53:20,245 - WARNING -  * Debugger is active!
+2024-05-30 11:53:20,246 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:53:37,928 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:37,934 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:38,949 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:53:39,438 - WARNING -  * Debugger is active!
+2024-05-30 11:53:39,439 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:53:48,634 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:48,640 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:48,961 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:53:49,451 - WARNING -  * Debugger is active!
+2024-05-30 11:53:49,452 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:53:50,306 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:50,307 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:53:50,969 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:53:51,462 - WARNING -  * Debugger is active!
+2024-05-30 11:53:51,462 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:56:16,583 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:56:16,589 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:56:16,758 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:56:17,251 - WARNING -  * Debugger is active!
+2024-05-30 11:56:17,251 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:56:23,945 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:56:23,951 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:56:24,817 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:56:25,308 - WARNING -  * Debugger is active!
+2024-05-30 11:56:25,308 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:57:00,686 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:57:00,692 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:57:01,043 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:57:01,527 - WARNING -  * Debugger is active!
+2024-05-30 11:57:01,528 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:57:01,962 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:57:02,048 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:57:02,535 - WARNING -  * Debugger is active!
+2024-05-30 11:57:02,535 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:57:13,658 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:57:13,663 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:57:14,117 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:57:14,604 - WARNING -  * Debugger is active!
+2024-05-30 11:57:14,604 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:59:20,490 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:20,490 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:20,496 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:20,658 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:20,659 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:20,846 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:59:21,338 - WARNING -  * Debugger is active!
+2024-05-30 11:59:21,339 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:59:42,211 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:59:42,216 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:59:42,407 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:59:42,408 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 11:59:42,942 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:59:43,435 - WARNING -  * Debugger is active!
+2024-05-30 11:59:43,435 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:59:57,401 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:57,406 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:58,030 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 11:59:58,519 - WARNING -  * Debugger is active!
+2024-05-30 11:59:58,519 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 11:59:59,655 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:59,660 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:59,800 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 11:59:59,801 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:00:00,022 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:00:00,520 - WARNING -  * Debugger is active!
+2024-05-30 12:00:00,520 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:00:06,721 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:00:06,722 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:00:06,726 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:00:06,901 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:00:06,902 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:00:07,080 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:00:07,580 - WARNING -  * Debugger is active!
+2024-05-30 12:00:07,580 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:00:13,613 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:00:13,618 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:00:14,160 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:00:14,656 - WARNING -  * Debugger is active!
+2024-05-30 12:00:14,656 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:02:05,166 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:02:05,172 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:02:05,677 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:02:06,169 - WARNING -  * Debugger is active!
+2024-05-30 12:02:06,169 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:05:45,985 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:05:45,991 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:05:46,177 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:05:46,178 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:05:46,838 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:05:47,326 - WARNING -  * Debugger is active!
+2024-05-30 12:05:47,327 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:05:54,908 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:05:54,908 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:05:55,883 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:05:56,372 - WARNING -  * Debugger is active!
+2024-05-30 12:05:56,372 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:06:06,747 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:06:06,752 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:06:07,829 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:06:08,315 - WARNING -  * Debugger is active!
+2024-05-30 12:06:08,316 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:06:15,397 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:06:15,403 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:06:15,990 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:06:16,475 - WARNING -  * Debugger is active!
+2024-05-30 12:06:16,476 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:06:49,612 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:06:49,618 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:06:50,027 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:06:50,515 - WARNING -  * Debugger is active!
+2024-05-30 12:06:50,515 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:07:07,564 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:07:07,569 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:07:08,056 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:07:08,549 - WARNING -  * Debugger is active!
+2024-05-30 12:07:08,549 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:08:43,299 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:08:43,304 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:08:43,512 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:08:43,515 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:08:43,652 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:08:44,142 - WARNING -  * Debugger is active!
+2024-05-30 12:08:44,142 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:08:47,255 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:08:47,261 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:08:47,480 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:08:47,481 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:08:47,667 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:08:48,156 - WARNING -  * Debugger is active!
+2024-05-30 12:08:48,156 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:09:01,742 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:09:01,749 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:09:01,922 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:09:01,923 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:09:02,591 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:09:03,082 - WARNING -  * Debugger is active!
+2024-05-30 12:09:03,082 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:09:45,657 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:09:45,663 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:09:45,797 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:09:46,290 - WARNING -  * Debugger is active!
+2024-05-30 12:09:46,291 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:10:11,172 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:10:11,178 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:10:11,358 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:10:11,359 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:10:11,955 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:10:12,439 - WARNING -  * Debugger is active!
+2024-05-30 12:10:12,440 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:19:00,748 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:19:00,749 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:19:00,754 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:19:01,770 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:19:02,260 - WARNING -  * Debugger is active!
+2024-05-30 12:19:02,260 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:19:09,882 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:19:09,883 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:19:10,775 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:19:10,781 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:19:10,920 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:19:11,407 - WARNING -  * Debugger is active!
+2024-05-30 12:19:11,408 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:19:33,228 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:19:33,234 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:19:34,053 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:19:34,541 - WARNING -  * Debugger is active!
+2024-05-30 12:19:34,542 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:19:54,410 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:19:54,412 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:19:54,620 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:19:54,621 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:19:55,016 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:19:55,512 - WARNING -  * Debugger is active!
+2024-05-30 12:19:55,513 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:32:37,282 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:32:37,287 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:32:37,428 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:32:37,429 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:32:37,430 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:32:37,938 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:32:38,429 - WARNING -  * Debugger is active!
+2024-05-30 12:32:38,430 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:33:29,833 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:33:29,839 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:33:30,256 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:33:30,742 - WARNING -  * Debugger is active!
+2024-05-30 12:33:30,742 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:33:30,985 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Trial1.py', reloading
+2024-05-30 12:33:31,122 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:33:31,611 - WARNING -  * Debugger is active!
+2024-05-30 12:33:31,611 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 12:34:00,884 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:34:00,889 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:34:01,087 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:34:01,087 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:34:01,089 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/excelRentabilidad.py', reloading
+2024-05-30 12:34:01,368 - INFO -  * Restarting with watchdog (inotify)
+2024-05-30 12:34:01,857 - WARNING -  * Debugger is active!
+2024-05-30 12:34:01,857 - INFO -  * Debugger PIN: 646-525-129
