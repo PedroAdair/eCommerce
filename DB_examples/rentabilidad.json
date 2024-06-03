@@ -5,23 +5,14 @@
                 "concepto": "Mercancia",
                 "tipoCambio":16.94,
                 "dolares":   26804.74,
-                "monedaNacional":454072.30 },
-            {"nombre": "Segundo Pago",
-                "concepto": "Mercancia",
-                "tipoCambio":16.57,
-                "dolares":   26804.74,
-                "monedaNacional":454072.30 },
-            {"nombre": "Flete Marino + Seguimiento",
-                "concepto": "Mercancia",
-                "tipoCambio":16.57,
-                "dolares":   8056.74,
-                "monedaNacional":133863.30 }
+                "monedaNacional":454072.30 }
                     ],
         "globales": {
             "tipoCambio": 16.755,
             "totalDolares": 54915.84,
             "monedaNacional": 919863.94,
-            "porcentajeIVA":16
+            "porcentajeIVA":16,
+            "MN":150000.00
         }
     },
     "productos":[
