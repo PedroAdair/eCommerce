@@ -686,3 +686,13 @@
 2024-05-30 12:34:01,368 - INFO -  * Restarting with watchdog (inotify)
 2024-05-30 12:34:01,857 - WARNING -  * Debugger is active!
 2024-05-30 12:34:01,857 - INFO -  * Debugger PIN: 646-525-129
+2024-05-30 13:12:26,226 - INFO - 192.168.100.2 - - [30/May/2024 13:12:26] "POST /KPI HTTP/1.1" 200 -
+2024-05-30 13:12:43,195 - INFO - 192.168.100.2 - - [30/May/2024 13:12:43] "POST /KPI HTTP/1.1" 200 -
+2024-05-31 15:38:50,669 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4101
+2024-05-31 15:38:50,669 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-31 15:38:50,672 - INFO -  * Restarting with watchdog (inotify)
+2024-05-31 15:38:51,160 - WARNING -  * Debugger is active!
+2024-05-31 15:38:51,161 - INFO -  * Debugger PIN: 143-502-098
+2024-05-31 15:38:58,415 - INFO - 192.168.100.2 - - [31/May/2024 15:38:58] "POST /KPI HTTP/1.1" 200 -
+2024-05-31 15:54:56,032 - INFO - 192.168.100.2 - - [31/May/2024 15:54:56] "POST /KPI HTTP/1.1" 200 -

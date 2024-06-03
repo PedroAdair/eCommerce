@@ -1,0 +1,48 @@
+{"productos":[
+    {
+        "informacionGeneral":{
+            "claveProducto": "General medical cown",
+            "descripcionProducto":"Bata  Quirúrgica desechable",
+            "piezas":"Piezas"
+        },
+        "datosPedimiento":{
+            "importeMNAduana": 355725.3,
+            "flete": 38647.7,
+            "unidades": 30000
+        },
+        "A1":{
+            "costoUnitarioUSD":7.5
+        }
+    },
+    {
+        "informacionGeneral":{
+            "claveProducto": "General medical cown",
+            "descripcionProducto":"Juego de Cesárea (Jeringa de oído desechable c/equipo p/cirugía de cesárea)",
+            "piezas":"Piezas"
+        },
+        "datosPedimiento":{
+            "importeMNAduana": 23434.3,
+            "flete": 43245.7,
+            "unidades": 23422
+        },
+        "A1":{
+            "costoUnitarioUSD":7.5
+        }
+    },
+    {
+        "informacionGeneral":{
+            "claveProducto": "General medical cown",
+            "descripcionProducto":"Uniforme Quirurgico desechable",
+            "piezas":"Piezas"
+        },
+        "datosPedimiento":{
+            "importeMNAduana": 34231.3,
+            "flete": 2431.7,
+            "unidades": 23242
+        },
+        "A1":{
+            "costoUnitarioUSD":5.5
+        }
+    }
+]
+}
