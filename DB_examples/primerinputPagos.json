@@ -18,7 +18,9 @@
                     ],
         "globales": {
             "porcentajeIVA":16,
-            "MN":150000.00
+            "MN":150000.00,
+            "flete":120000,
+            "seguro": 382059
         }
     }
 }
