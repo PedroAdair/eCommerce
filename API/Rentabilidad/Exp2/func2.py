@@ -28,7 +28,7 @@ def getDatosPedimiento(product:dict):
     product['datosPedimiento']["costoUnitario"] = round(total/product['datosPedimiento']['unidades'], 2)
     return product
 
-def getCompleteDatosPedimiento(products:dict):
+def actualizarDatosPedimiento(products:dict):
     datosPedimiento = map(lambda x: getDatosPedimiento(x), products["productos"])
     products["productos"] = list(datosPedimiento)
     totales_importeMNAduana = round(sum(map(lambda x: x['datosPedimiento']['importeMNAduana'], products["productos"])),2)
@@ -46,20 +46,15 @@ def getCompleteDatosPedimiento(products:dict):
 
     products["totales"] = totales
 
-    return products
-
-############################################################################################################################################################################
-############################################################################################################################################################################
-
-
-def getTotalImporteUSD(products:dict):
     for x in products["productos"]:
         x["A1"]["importeUSD"] =  x["A1"]["costoUnitarioUSD"]*x['datosPedimiento']['unidades']
 
     totales_importeUSD = sum(map(lambda x: x["A1"]["importeUSD"], products["productos"]))
 
     products['totales']["importeUSD"] = totales_importeUSD
+
     return products
+
 
 #############################################################################################################################################################################
 #A1
@@ -111,7 +106,7 @@ def obtenerA3(payments:dict, products:dict):
 
     return products
 
-
+#############################################################################################################################################################################
 #A4
 #############################################################################################################################################################################
 def obtenerA4(payments:dict, products:dict):
@@ -130,6 +125,29 @@ def obtenerA4(payments:dict, products:dict):
     products['totales']["seguro"] = totales_seguro
 
     return products
+#############################################################################################################################################################################
+#A4
+#############################################################################################################################################################################
+
+def obtenerA4(payments:dict, products:dict):
+    """ cuenta Aduanera"""
+    seguro = payments['tipoCambio']['globales']['seguro']
+    totalUnidades = products['totales']['unidades']
+    seguroValue = round(seguro/totalUnidades,3)
+
+    fletesMarinoTerrestre = lambda x: {**x, 'A4': {**x['A4'], 'seguro': round(seguroValue*x['datosPedimiento']['unidades'],2)}}
+    
+    products['productos'] = list(map(fletesMarinoTerrestre, products["productos"]))
+    
+    fleteUnit = lambda x: {**x, 'A4': {**x['A4'], 'seguroUnit': seguroValue}}
+    products['productos'] = list(map(fleteUnit, products["productos"]))
+
+    totales_seguro = round(sum(map(lambda x: x["A4"]["seguro"], products["productos"])),2)
+    products['totales']["seguro"] = totales_seguro
+
+    return products
+
+
 ############################################################################################################################################################################
 # Pagos
 ############################################################################################################################################################################
@@ -144,9 +162,7 @@ def registrarPrimerPago(payments:dict):
 #############################################################################################################################################################################
 print("*"*150)
 #paso 1. registrar los productos con su primeras caracteristicas
-#es posible unir esras funciones en una sola
-products = getCompleteDatosPedimiento(products=products)
-products = getTotalImporteUSD(products=products)
+products = actualizarDatosPedimiento(products=products)
 #paso 2. registrar el primer pago
 payments = registrarPrimerPago(payments=payments)
 #Paso 3
@@ -159,12 +175,16 @@ products = obtenerA3(payments=payments ,products=products)
 products = obtenerA4(payments=payments ,products=products)
 
 
-
+print("Ejemplo de un producto")
 print(products['productos'][0]) 
 print("**"*100)
+print("totales")
 print(products['totales'])     
 # aa = list(map(lambda x: x['A1'].update({'importeMN': x['A1']['importeUSD']*tipoCambio}), products["productos"]))
 # print(aa)
 
 print("---"*100)
 print(products.keys())
+print("**"*100)
+print("Pagos")
+print(payments['tipoCambio']['globales'])
