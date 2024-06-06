@@ -62,9 +62,14 @@ def actualizarDatosPedimiento(products:dict):
 def obtenerA1(payments:dict, products:dict):
     #obtener el tipo de cambio
     tipoCambio = payments['tipoCambio']['globales']['tipoCambio']
+    totalUnidades = products['totales']['unidades']
+
     #optener el precio en moneda mexicana considerando el tipo de cambio por la compra
     importesUSD = lambda x: {**x, 'A1': {**x['A1'], 'importeMN': round(x['A1']['importeUSD']*tipoCambio,2)}}
     products['productos'] = list(map(importesUSD, products["productos"]))
+    #costoUnitarioMN
+    costoUnitarioMN = lambda x: {**x, 'A1': {**x['A1'], 'costoUnitarioMN': round(x['A1']['importeMN']/x['datosPedimiento']['unidades'],2)}}
+    products['productos'] = list(map(costoUnitarioMN, products["productos"]))
 
     totales_importeMN = sum(map(lambda x: x["A1"]["importeMN"], products["productos"]))
     products['totales'].update({'importeMN':totales_importeMN}) 
@@ -91,6 +96,7 @@ def obtenerA2(payments:dict, products:dict):
 #A3
 #############################################################################################################################################################################
 def obtenerA3(payments:dict, products:dict):
+    """flete"""
     flete         = payments['tipoCambio']['globales']['flete']
     totalUnidades = products['totales']['unidades']
 
@@ -110,6 +116,7 @@ def obtenerA3(payments:dict, products:dict):
 #A4
 #############################################################################################################################################################################
 def obtenerA4(payments:dict, products:dict):
+    """seguro"""
     seguro = payments['tipoCambio']['globales']['seguro']
     totalUnidades = products['totales']['unidades']
     seguroValue = round(seguro/totalUnidades,3)
@@ -126,24 +133,45 @@ def obtenerA4(payments:dict, products:dict):
 
     return products
 #############################################################################################################################################################################
-#A4
+#A5
 #############################################################################################################################################################################
 
-def obtenerA4(payments:dict, products:dict):
+def obtenerA5(payments:dict, products:dict):
     """ cuenta Aduanera"""
-    seguro = payments['tipoCambio']['globales']['seguro']
+    cuentaAduanera = payments['tipoCambio']['globales']['cuentaAduanera']
     totalUnidades = products['totales']['unidades']
-    seguroValue = round(seguro/totalUnidades,3)
+    cuentaAduaneraValue = round(cuentaAduanera/totalUnidades,3)
 
-    fletesMarinoTerrestre = lambda x: {**x, 'A4': {**x['A4'], 'seguro': round(seguroValue*x['datosPedimiento']['unidades'],2)}}
+    cuentasAduanera = lambda x: {**x, 'A5': {**x['A5'], 'otrosCuentaAduanera': round(cuentaAduaneraValue*x['datosPedimiento']['unidades'],2)}}
     
-    products['productos'] = list(map(fletesMarinoTerrestre, products["productos"]))
+    products['productos'] = list(map(cuentasAduanera, products["productos"]))
     
-    fleteUnit = lambda x: {**x, 'A4': {**x['A4'], 'seguroUnit': seguroValue}}
+    fleteUnit = lambda x: {**x, 'A5': {**x['A5'], 'otrosUnit': cuentaAduaneraValue}}
     products['productos'] = list(map(fleteUnit, products["productos"]))
 
-    totales_seguro = round(sum(map(lambda x: x["A4"]["seguro"], products["productos"])),2)
-    products['totales']["seguro"] = totales_seguro
+    totales_cuentaAduanera = round(sum(map(lambda x: x["A5"]["otrosCuentaAduanera"], products["productos"])),2)
+    products['totales']["cuentaAduanera"] = totales_cuentaAduanera
+
+    return products
+
+#############################################################################################################################################################################
+#A6
+#############################################################################################################################################################################
+def obtenerA6(payments:dict, products:dict):
+    """Certificaciones"""
+    certificaciones = payments['tipoCambio']['globales']['certificaciones']
+    totalUnidades = products['totales']['unidades']
+    certificacionesValue = round(certificaciones/totalUnidades,3)
+
+    certificaciones = lambda x: {**x, 'A6': {**x['A6'], 'certificaciones': round(certificacionesValue*x['datosPedimiento']['unidades'],2)}}
+    
+    products['productos'] = list(map(certificaciones, products["productos"]))
+    
+    fleteUnit = lambda x: {**x, 'A6': {**x['A6'], 'certificacionesUnit': certificacionesValue}}
+    products['productos'] = list(map(fleteUnit, products["productos"]))
+
+    totales_certificaciones = round(sum(map(lambda x: x["A6"]["certificaciones"], products["productos"])),2)
+    products['totales']["certificaciones"] = totales_certificaciones
 
     return products
 
@@ -156,7 +184,38 @@ def registrarPrimerPago(payments:dict):
     payments['tipoCambio']['globales']['tipoCambio'] = tipoCambio
     return payments
 
+############################################################################################################################################################################
 
+def obtenerSubtotal(product:dict):
+    """Obtener dubtosles po producto A1-A6"""
+    costoUnitarioMN       = product['A1']['costoUnitarioMN']
+    despachoAduanalMNUnit = product['A2']['despachoAduanalMNUnit']
+    fleteUnit             = product['A3']['fleteUnit']
+    seguroUnit            = product['A4']['seguroUnit']
+    otrosUnit             = product['A5']['otrosUnit']
+    certificacionesUnit   = product['A6']['certificacionesUnit']
+
+    subtotal = np.sum([costoUnitarioMN, despachoAduanalMNUnit, fleteUnit, seguroUnit, otrosUnit, certificacionesUnit])
+    
+    return subtotal
+
+def obtenerA6(payments:dict, products:dict):
+    """Certificaciones"""
+    certificaciones = payments['tipoCambio']['globales']['certificaciones']
+    totalUnidades = products['totales']['unidades']
+    certificacionesValue = round(certificaciones/totalUnidades,3)
+
+    certificaciones = lambda x: {**x, 'A6': {**x['A6'], 'certificaciones': round(certificacionesValue*x['datosPedimiento']['unidades'],2)}}
+    
+    products['productos'] = list(map(certificaciones, products["productos"]))
+    
+    fleteUnit = lambda x: {**x, 'A6': {**x['A6'], 'certificacionesUnit': certificacionesValue}}
+    products['productos'] = list(map(fleteUnit, products["productos"]))
+
+    totales_certificaciones = round(sum(map(lambda x: x["A6"]["certificaciones"], products["productos"])),2)
+    products['totales']["certificaciones"] = totales_certificaciones
+
+    return products
 #############################################################################################################################################################################
 # Proceso
 #############################################################################################################################################################################
@@ -173,7 +232,10 @@ products = obtenerA2(payments=payments ,products=products)
 products = obtenerA3(payments=payments ,products=products)
 #Paso 6 Obtener A4 (seguro)
 products = obtenerA4(payments=payments ,products=products)
-
+#Paso 7 Obtener A4 (seguro)
+products = obtenerA5(payments=payments ,products=products)
+#Paso 8 Obtener A4 (seguro)
+products = obtenerA6(payments=payments ,products=products)
 
 print("Ejemplo de un producto")
 print(products['productos'][0]) 
