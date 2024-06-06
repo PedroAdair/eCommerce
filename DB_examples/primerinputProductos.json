@@ -24,8 +24,8 @@
         "A6":{
         },
         "A7":{
-            "prevalidacion": 1,
-            "porcentajeTDA":8
+            "valor_prevalidacion": 1,
+            "porcentajeDTA":8
         },
         "A8":{
             "porcentajeIGI": 20
@@ -62,8 +62,8 @@
         "A6":{
         },
         "A7":{
-            "prevalidacion": 1,
-            "porcentajeTDA":8
+            "valor_prevalidacion": 1,
+            "porcentajeDTA":8
         },
         "A8":{
             "porcentajeIGI": 20
@@ -100,8 +100,8 @@
         "A6":{
         },
         "A7":{
-            "prevalidacion": 1,
-            "porcentajeTDA":8
+            "valor_prevalidacion": 1,
+            "porcentajeDTA":8
         },
         "A8":{
             "porcentajeIGI": 20
