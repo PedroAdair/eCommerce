@@ -58,7 +58,7 @@
             "A7":{
                 "prevalidacion": 1,
                 "prevalidacionUnit": 1,
-                "porcentajeTDA":8,
+                "porcentajeDTA":8,
                 "DTA":1,
                 "importeDTA": 1006.58
             },
@@ -88,23 +88,13 @@
                 "valor4": 45
             },
             "B2":{
-                "precioVentaPropuesto": 34,
-                "porcentajeGanancia": 10,
-                "porcentajeIVA": 16,
-                "IVA": 11.62,
-                "precioFinalIVA": 81.2
+                "precioVentaPropuesto": 34
             },
             "propuestaPropia":{
-                "precioVentaPropuesto": 48,
-                "porcentajeGanancia": 51,
-                "IVA": 7.68,
-                "precioFinalIVA": 55.68
+                "precioVentaPropuesto": 48
             },
             "propuestaSuperior":{
-                "precioVentaArriba100":64,
-                "porcentajeGanancia":12,
-                "IVA":16,
-                "precioFinalIVA":72.4
+                "precioVentaPropuesto":64
             }
         }
     ],

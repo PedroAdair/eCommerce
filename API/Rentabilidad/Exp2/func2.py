@@ -327,6 +327,38 @@ def obtenerCostoTotal(payments:dict, products:dict):
 
     return products
 
+#############################################################################################################################################################################
+# Propuestas de costo de venta
+#############################################################################################################################################################################
+def ValorenVenta(product: dict,level: str,  porcentajeIVA: float):
+    precioVentaPropuesto = product[level]['precioVentaPropuesto']
+
+    porcentajeGanancia = ((precioVentaPropuesto * product['costoTotal']['CostoFinal'])/100) 
+    IVA = precioVentaPropuesto*porcentajeIVA/100
+    precioFinalIVA = porcentajeGanancia + IVA
+
+    infoVenta = {"precioVentaPropuesto": precioVentaPropuesto,
+                 "porcentajeGanancia": round(porcentajeGanancia, 2),
+                 "porcentajeIVA": porcentajeIVA,
+                 "IVA": IVA,
+                 "precioFinalIVA":precioFinalIVA
+                 }
+    return infoVenta
+
+def ActualizarPrecios(payments:dict, products:dict):
+    porcentajeIVA = payments['tipoCambio']['globales']['porcentajeIVA']
+    importe = lambda x: {**x, 'B2': ValorenVenta(product=x,level='B2', porcentajeIVA=porcentajeIVA)}
+    products['productos'] = list(map(importe, products["productos"]))
+
+    importe = lambda x: {**x, 'propuestaPropia': ValorenVenta(product=x,level='propuestaPropia', porcentajeIVA=porcentajeIVA)}
+    products['productos'] = list(map(importe, products["productos"]))
+
+    importe = lambda x: {**x, 'propuestaSuperior': ValorenVenta(product=x,level='propuestaSuperior', porcentajeIVA=porcentajeIVA)}
+    products['productos'] = list(map(importe, products["productos"]))
+    return products
+
+
+
 
 #############################################################################################################################################################################
 # Proceso
@@ -358,16 +390,18 @@ products = obtenerA8(payments=payments ,products=products)
 products = obtenerA9(payments=payments ,products=products)
 #paso 13 obtener Costo Total
 products = obtenerCostoTotal(payments=payments ,products=products)
+#paso 13 actualizar con los precios
+products = ActualizarPrecios(payments=payments ,products=products)
+
 
 
 print("Ejemplo de un producto")
 print(products['productos'][0]) 
 print("**"*100)
 print("totales")
-print(list(products['totales'].keys())) 
+print(len(list(products['totales'].keys()))) 
 print(products['totales'])    
-# aa = list(map(lambda x: x['A1'].update({'importeMN': x['A1']['importeUSD']*tipoCambio}), products["productos"]))
-# print(aa)
+
 
 print("**"*100)
 print("Pagos")

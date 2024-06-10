@@ -34,6 +34,15 @@
         },
         "costoTotal":{
 
+        },
+        "B2":{
+            "precioVentaPropuesto": 35
+        },
+        "propuestaPropia":{
+            "precioVentaPropuesto": 48
+        },
+        "propuestaSuperior":{
+            "precioVentaPropuesto":64
         }
     },
     {
@@ -72,6 +81,15 @@
         },
         "costoTotal":{
             
+        },
+        "B2":{
+            "precioVentaPropuesto": 34
+        },
+        "propuestaPropia":{
+            "precioVentaPropuesto": 48
+        },
+        "propuestaSuperior":{
+            "precioVentaPropuesto":64
         }
     },
     {
@@ -110,6 +128,15 @@
         },
         "costoTotal":{
             
+        },
+        "B2":{
+            "precioVentaPropuesto": 34
+        },
+        "propuestaPropia":{
+            "precioVentaPropuesto": 48
+        },
+        "propuestaSuperior":{
+            "precioVentaPropuesto":64
         }
     }
 ]
