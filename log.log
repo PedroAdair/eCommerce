@@ -768,3 +768,1260 @@
 2024-06-11 10:48:02,159 - INFO -  * Restarting with watchdog (inotify)
 2024-06-11 10:48:02,658 - WARNING -  * Debugger is active!
 2024-06-11 10:48:02,658 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:50:39,786 - INFO - 192.168.100.3 - - [11/Jun/2024 10:50:39] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:50:39,787 - INFO - 192.168.100.3 - - [11/Jun/2024 10:50:39] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:50:39,811 - INFO - 192.168.100.3 - - [11/Jun/2024 10:50:39] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:50:39,815 - INFO - 192.168.100.3 - - [11/Jun/2024 10:50:39] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:51:05,048 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:05] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:51:05,049 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:05] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:51:05,064 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:05] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:51:05,073 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:05] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:51:08,055 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:08] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:51:08,057 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:08] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:51:49,919 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:49] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:51:49,920 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:49] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:51:49,936 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:49] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:51:49,941 - INFO - 192.168.100.3 - - [11/Jun/2024 10:51:49] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:52:02,208 - INFO - 192.168.100.3 - - [11/Jun/2024 10:52:02] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:52:02,210 - INFO - 192.168.100.3 - - [11/Jun/2024 10:52:02] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:52:02,223 - INFO - 192.168.100.3 - - [11/Jun/2024 10:52:02] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:52:02,228 - INFO - 192.168.100.3 - - [11/Jun/2024 10:52:02] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:52:36,005 - INFO - 192.168.100.3 - - [11/Jun/2024 10:52:36] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:52:42,462 - INFO - 192.168.100.3 - - [11/Jun/2024 10:52:42] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:52:53,684 - INFO - 192.168.100.3 - - [11/Jun/2024 10:52:53] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:53:28,045 - INFO - 192.168.100.3 - - [11/Jun/2024 10:53:28] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:53:28,047 - INFO - 192.168.100.3 - - [11/Jun/2024 10:53:28] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:53:28,065 - INFO - 192.168.100.3 - - [11/Jun/2024 10:53:28] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:53:28,068 - INFO - 192.168.100.3 - - [11/Jun/2024 10:53:28] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:56:28,218 - INFO - 192.168.100.3 - - [11/Jun/2024 10:56:28] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:56:28,220 - INFO - 192.168.100.3 - - [11/Jun/2024 10:56:28] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:56:28,242 - INFO - 192.168.100.3 - - [11/Jun/2024 10:56:28] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:56:28,258 - INFO - 192.168.100.3 - - [11/Jun/2024 10:56:28] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:56:36,032 - INFO - 192.168.100.3 - - [11/Jun/2024 10:56:36] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:56:36,033 - INFO - 192.168.100.3 - - [11/Jun/2024 10:56:36] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:56:36,057 - INFO - 192.168.100.3 - - [11/Jun/2024 10:56:36] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:56:36,060 - INFO - 192.168.100.3 - - [11/Jun/2024 10:56:36] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:57:36,715 - INFO - 192.168.100.3 - - [11/Jun/2024 10:57:36] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:57:36,718 - INFO - 192.168.100.3 - - [11/Jun/2024 10:57:36] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:57:36,734 - INFO - 192.168.100.3 - - [11/Jun/2024 10:57:36] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:57:36,740 - INFO - 192.168.100.3 - - [11/Jun/2024 10:57:36] "[35m[1mPOST /rentabilidad HTTP/1.1[0m" 500 -
+2024-06-11 10:59:08,751 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:08] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:26,536 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:26] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:26,537 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:26] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:26,544 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:26] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:26,561 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:26] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:32,881 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:32] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:32,882 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:32] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:32,920 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:32] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:32,921 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:32] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:58,609 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:58] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:58,610 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:58] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:58,621 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:58] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:59:58,623 - INFO - 192.168.100.3 - - [11/Jun/2024 10:59:58] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:00:18,357 - INFO - 192.168.100.3 - - [11/Jun/2024 11:00:18] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:00:18,358 - INFO - 192.168.100.3 - - [11/Jun/2024 11:00:18] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:00:18,366 - INFO - 192.168.100.3 - - [11/Jun/2024 11:00:18] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:00:18,368 - INFO - 192.168.100.3 - - [11/Jun/2024 11:00:18] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:00:50,656 - INFO - 192.168.100.3 - - [11/Jun/2024 11:00:50] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:00:50,657 - INFO - 192.168.100.3 - - [11/Jun/2024 11:00:50] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:00:50,675 - INFO - 192.168.100.3 - - [11/Jun/2024 11:00:50] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:00:50,675 - INFO - 192.168.100.3 - - [11/Jun/2024 11:00:50] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:01:02,790 - INFO - 192.168.100.3 - - [11/Jun/2024 11:01:02] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:01:02,793 - INFO - 192.168.100.3 - - [11/Jun/2024 11:01:02] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:01:02,800 - INFO - 192.168.100.3 - - [11/Jun/2024 11:01:02] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:01:02,804 - INFO - 192.168.100.3 - - [11/Jun/2024 11:01:02] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:05:06,223 - INFO - 192.168.100.3 - - [11/Jun/2024 11:05:06] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:05:06,223 - INFO - 192.168.100.3 - - [11/Jun/2024 11:05:06] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:05:06,231 - INFO - 192.168.100.3 - - [11/Jun/2024 11:05:06] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:05:06,239 - INFO - 192.168.100.3 - - [11/Jun/2024 11:05:06] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:05:29,137 - INFO - 192.168.100.3 - - [11/Jun/2024 11:05:29] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:05:29,144 - INFO - 192.168.100.3 - - [11/Jun/2024 11:05:29] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:05:29,155 - INFO - 192.168.100.3 - - [11/Jun/2024 11:05:29] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:05:29,157 - INFO - 192.168.100.3 - - [11/Jun/2024 11:05:29] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:10:08,492 - INFO - 192.168.100.3 - - [11/Jun/2024 11:10:08] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:10:08,496 - INFO - 192.168.100.3 - - [11/Jun/2024 11:10:08] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:10:08,503 - INFO - 192.168.100.3 - - [11/Jun/2024 11:10:08] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:10:08,512 - INFO - 192.168.100.3 - - [11/Jun/2024 11:10:08] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:10:54,085 - INFO - 192.168.100.3 - - [11/Jun/2024 11:10:54] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:10:54,088 - INFO - 192.168.100.3 - - [11/Jun/2024 11:10:54] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:10:54,093 - INFO - 192.168.100.3 - - [11/Jun/2024 11:10:54] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:10:54,095 - INFO - 192.168.100.3 - - [11/Jun/2024 11:10:54] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:36:42,862 - INFO - 192.168.100.3 - - [11/Jun/2024 11:36:42] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:36:42,868 - INFO - 192.168.100.3 - - [11/Jun/2024 11:36:42] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:37:28,427 - INFO - 192.168.100.3 - - [11/Jun/2024 11:37:28] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:37:28,433 - INFO - 192.168.100.3 - - [11/Jun/2024 11:37:28] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:38:00,479 - INFO - 192.168.100.3 - - [11/Jun/2024 11:38:00] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:38:00,485 - INFO - 192.168.100.3 - - [11/Jun/2024 11:38:00] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:38:17,320 - INFO - 192.168.100.3 - - [11/Jun/2024 11:38:17] "OPTIONS /rentabilidad HTTP/1.1" 200 -
+2024-06-11 11:38:17,326 - INFO - 192.168.100.3 - - [11/Jun/2024 11:38:17] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 13:56:08,063 - INFO - 192.168.100.3 - - [11/Jun/2024 13:56:08] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 14:55:32,569 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 14:55:32,570 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 14:55:32,577 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 14:55:33,533 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 14:55:34,040 - WARNING -  * Debugger is active!
+2024-06-11 14:55:34,041 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 14:56:54,117 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 14:56:54,124 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 14:56:54,989 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 14:56:55,496 - WARNING -  * Debugger is active!
+2024-06-11 14:56:55,496 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 14:58:51,846 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 14:58:51,853 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 14:58:52,629 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 14:58:53,125 - WARNING -  * Debugger is active!
+2024-06-11 14:58:53,126 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:00:15,139 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 15:00:15,145 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 15:00:15,308 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 15:00:15,309 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 15:00:15,916 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:00:16,416 - WARNING -  * Debugger is active!
+2024-06-11 15:00:16,417 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:02:53,694 - INFO - 192.168.100.3 - - [11/Jun/2024 15:02:53] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 15:07:25,673 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:07:25,679 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:07:26,141 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:07:26,656 - WARNING -  * Debugger is active!
+2024-06-11 15:07:26,656 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:15:27,700 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:27,700 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:27,707 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:27,931 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:27,933 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:28,458 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:15:28,963 - WARNING -  * Debugger is active!
+2024-06-11 15:15:28,964 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:15:39,029 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:39,035 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:39,212 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:39,214 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:15:39,396 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:15:39,891 - WARNING -  * Debugger is active!
+2024-06-11 15:15:39,891 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:16:34,185 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:16:34,190 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:16:34,327 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:16:34,329 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:16:34,546 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:16:35,059 - WARNING -  * Debugger is active!
+2024-06-11 15:16:35,059 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:18:53,422 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:18:53,428 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:18:53,601 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:18:53,602 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:18:54,258 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:18:54,768 - WARNING -  * Debugger is active!
+2024-06-11 15:18:54,769 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:19:04,014 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:19:04,020 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:19:04,182 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:19:04,183 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:19:04,346 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:19:04,842 - WARNING -  * Debugger is active!
+2024-06-11 15:19:04,842 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:21:02,901 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:21:02,907 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:21:03,076 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:21:03,077 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:21:03,945 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:21:04,439 - WARNING -  * Debugger is active!
+2024-06-11 15:21:04,440 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:21:29,994 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:21:30,001 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:21:30,116 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:21:30,614 - WARNING -  * Debugger is active!
+2024-06-11 15:21:30,614 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:26:04,303 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:04,310 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:04,451 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:26:04,952 - WARNING -  * Debugger is active!
+2024-06-11 15:26:04,953 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:26:31,781 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:31,788 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:31,920 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:31,921 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:32,073 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:32,075 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:32,619 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:26:33,119 - WARNING -  * Debugger is active!
+2024-06-11 15:26:33,120 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:26:35,528 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:35,535 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:26:35,669 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:26:36,170 - WARNING -  * Debugger is active!
+2024-06-11 15:26:36,170 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:40:40,511 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:40:40,512 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:40:40,517 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:40:40,623 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:40:41,121 - WARNING -  * Debugger is active!
+2024-06-11 15:40:41,121 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:43:37,617 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:43:37,617 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:43:37,618 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:43:38,502 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:43:38,994 - WARNING -  * Debugger is active!
+2024-06-11 15:43:38,994 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:43:39,390 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:43:39,390 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:43:39,478 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:43:39,975 - WARNING -  * Debugger is active!
+2024-06-11 15:43:39,975 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:43:46,919 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:43:46,921 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:43:47,494 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:43:48,007 - WARNING -  * Debugger is active!
+2024-06-11 15:43:48,008 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:44:29,185 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/t4.py', reloading
+2024-06-11 15:44:29,692 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:44:30,203 - WARNING -  * Debugger is active!
+2024-06-11 15:44:30,203 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:50:39,500 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/__init__.py', reloading
+2024-06-11 15:50:39,501 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/__main__.py', reloading
+2024-06-11 15:50:39,501 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/__main__.py', reloading
+2024-06-11 15:50:39,501 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/__main__.py', reloading
+2024-06-11 15:50:39,502 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/cli.py', reloading
+2024-06-11 15:50:39,502 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/cli.py', reloading
+2024-06-11 15:50:39,502 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/cli.py', reloading
+2024-06-11 15:50:39,502 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/config.py', reloading
+2024-06-11 15:50:39,503 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/config.py', reloading
+2024-06-11 15:50:39,503 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/config.py', reloading
+2024-06-11 15:50:39,503 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/documentor.py', reloading
+2024-06-11 15:50:39,503 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/documentor.py', reloading
+2024-06-11 15:50:39,503 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/documentor.py', reloading
+2024-06-11 15:50:39,503 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/exceptions.py', reloading
+2024-06-11 15:50:39,504 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/exceptions.py', reloading
+2024-06-11 15:50:39,504 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/exceptions.py', reloading
+2024-06-11 15:50:39,504 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/factory.py', reloading
+2024-06-11 15:50:39,504 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/factory.py', reloading
+2024-06-11 15:50:39,504 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/factory.py', reloading
+2024-06-11 15:50:39,504 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/generator.py', reloading
+2024-06-11 15:50:39,505 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/generator.py', reloading
+2024-06-11 15:50:39,505 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/generator.py', reloading
+2024-06-11 15:50:39,505 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/proxy.py', reloading
+2024-06-11 15:50:39,505 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/proxy.py', reloading
+2024-06-11 15:50:39,505 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/proxy.py', reloading
+2024-06-11 15:50:39,506 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/typing.py', reloading
+2024-06-11 15:50:39,506 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/typing.py', reloading
+2024-06-11 15:50:39,506 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/typing.py', reloading
+2024-06-11 15:50:39,506 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/contrib/__init__.py', reloading
+2024-06-11 15:50:39,507 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/contrib/pytest/__init__.py', reloading
+2024-06-11 15:50:39,507 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/contrib/pytest/plugin.py', reloading
+2024-06-11 15:50:39,507 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/decode/__init__.py', reloading
+2024-06-11 15:50:39,507 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/decode/codes.py', reloading
+2024-06-11 15:50:39,508 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/decode/codes.py', reloading
+2024-06-11 15:50:39,508 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/decode/codes.py', reloading
+2024-06-11 15:50:39,508 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/__init__.py', reloading
+2024-06-11 15:50:39,509 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/__init__.py', reloading
+2024-06-11 15:50:39,509 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/az_AZ/__init__.py', reloading
+2024-06-11 15:50:39,509 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,509 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/cs_CZ/__init__.py', reloading
+2024-06-11 15:50:39,510 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/da_DK/__init__.py', reloading
+2024-06-11 15:50:39,510 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/de/__init__.py', reloading
+2024-06-11 15:50:39,510 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/de_AT/__init__.py', reloading
+2024-06-11 15:50:39,510 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/de_CH/__init__.py', reloading
+2024-06-11 15:50:39,511 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/da_DK/__init__.py', reloading
+2024-06-11 15:50:39,511 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/de/__init__.py', reloading
+2024-06-11 15:50:39,511 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/de_AT/__init__.py', reloading
+2024-06-11 15:50:39,511 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/de_CH/__init__.py', reloading
+2024-06-11 15:50:39,512 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/de_DE/__init__.py', reloading
+2024-06-11 15:50:39,512 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,512 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en/__init__.py', reloading
+2024-06-11 15:50:39,512 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_AU/__init__.py', reloading
+2024-06-11 15:50:39,514 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_BD/__init__.py', reloading
+2024-06-11 15:50:39,514 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_CA/__init__.py', reloading
+2024-06-11 15:50:39,514 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_GB/__init__.py', reloading
+2024-06-11 15:50:39,514 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_IE/__init__.py', reloading
+2024-06-11 15:50:39,514 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_IN/__init__.py', reloading
+2024-06-11 15:50:39,515 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_NZ/__init__.py', reloading
+2024-06-11 15:50:39,515 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_PH/__init__.py', reloading
+2024-06-11 15:50:39,515 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/en_US/__init__.py', reloading
+2024-06-11 15:50:39,515 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/es/__init__.py', reloading
+2024-06-11 15:50:39,515 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/es_AR/__init__.py', reloading
+2024-06-11 15:50:39,516 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/es_CL/__init__.py', reloading
+2024-06-11 15:50:39,516 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/es_CO/__init__.py', reloading
+2024-06-11 15:50:39,516 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,516 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/es_MX/__init__.py', reloading
+2024-06-11 15:50:39,518 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/fa_IR/__init__.py', reloading
+2024-06-11 15:50:39,518 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/fi_FI/__init__.py', reloading
+2024-06-11 15:50:39,518 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/fil_PH/__init__.py', reloading
+2024-06-11 15:50:39,518 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/fr_CA/__init__.py', reloading
+2024-06-11 15:50:39,519 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/fr_CH/__init__.py', reloading
+2024-06-11 15:50:39,519 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/fr_FR/__init__.py', reloading
+2024-06-11 15:50:39,519 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/he_IL/__init__.py', reloading
+2024-06-11 15:50:39,519 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/hi_IN/__init__.py', reloading
+2024-06-11 15:50:39,519 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/hr_HR/__init__.py', reloading
+2024-06-11 15:50:39,520 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/hu_HU/__init__.py', reloading
+2024-06-11 15:50:39,520 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/hy_AM/__init__.py', reloading
+2024-06-11 15:50:39,520 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/id_ID/__init__.py', reloading
+2024-06-11 15:50:39,520 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/it_IT/__init__.py', reloading
+2024-06-11 15:50:39,521 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/ja_JP/__init__.py', reloading
+2024-06-11 15:50:39,521 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/ka_GE/__init__.py', reloading
+2024-06-11 15:50:39,521 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/ko_KR/__init__.py', reloading
+2024-06-11 15:50:39,522 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/ne_NP/__init__.py', reloading
+2024-06-11 15:50:39,522 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/nl_BE/__init__.py', reloading
+2024-06-11 15:50:39,522 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/nl_NL/__init__.py', reloading
+2024-06-11 15:50:39,523 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/no_NO/__init__.py', reloading
+2024-06-11 15:50:39,523 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/pl_PL/__init__.py', reloading
+2024-06-11 15:50:39,524 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/pt_BR/__init__.py', reloading
+2024-06-11 15:50:39,524 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/pt_PT/__init__.py', reloading
+2024-06-11 15:50:39,524 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/ro_RO/__init__.py', reloading
+2024-06-11 15:50:39,524 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,525 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,525 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/sl_SI/__init__.py', reloading
+2024-06-11 15:50:39,525 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/sv_SE/__init__.py', reloading
+2024-06-11 15:50:39,525 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/ta_IN/__init__.py', reloading
+2024-06-11 15:50:39,525 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/th/__init__.py', reloading
+2024-06-11 15:50:39,526 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/th_TH/__init__.py', reloading
+2024-06-11 15:50:39,526 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/tl_PH/__init__.py', reloading
+2024-06-11 15:50:39,528 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/uk_UA/__init__.py', reloading
+2024-06-11 15:50:39,528 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/zh_CN/__init__.py', reloading
+2024-06-11 15:50:39,529 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/address/zh_TW/__init__.py', reloading
+2024-06-11 15:50:39,531 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/__init__.py', reloading
+2024-06-11 15:50:39,531 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/ar_BH/__init__.py', reloading
+2024-06-11 15:50:39,531 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/ar_JO/__init__.py', reloading
+2024-06-11 15:50:39,531 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/ar_PS/__init__.py', reloading
+2024-06-11 15:50:39,531 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/ar_SA/__init__.py', reloading
+2024-06-11 15:50:39,531 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/az_AZ/__init__.py', reloading
+2024-06-11 15:50:39,532 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,532 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/da_DK/__init__.py', reloading
+2024-06-11 15:50:39,532 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/de_CH/__init__.py', reloading
+2024-06-11 15:50:39,532 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/de_DE/__init__.py', reloading
+2024-06-11 15:50:39,532 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,532 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/en_CA/__init__.py', reloading
+2024-06-11 15:50:39,532 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/en_GB/__init__.py', reloading
+2024-06-11 15:50:39,533 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/en_NZ/__init__.py', reloading
+2024-06-11 15:50:39,533 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/en_PH/__init__.py', reloading
+2024-06-11 15:50:39,533 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/en_US/__init__.py', reloading
+2024-06-11 15:50:39,533 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/es_AR/__init__.py', reloading
+2024-06-11 15:50:39,533 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/es_CL/__init__.py', reloading
+2024-06-11 15:50:39,533 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/es_CO/__init__.py', reloading
+2024-06-11 15:50:39,533 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,534 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/et_EE/__init__.py', reloading
+2024-06-11 15:50:39,534 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/fi_FI/__init__.py', reloading
+2024-06-11 15:50:39,534 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/fil_PH/__init__.py', reloading
+2024-06-11 15:50:39,534 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/fr_FR/__init__.py', reloading
+2024-06-11 15:50:39,534 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/he_IL/__init__.py', reloading
+2024-06-11 15:50:39,534 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/hu_HU/__init__.py', reloading
+2024-06-11 15:50:39,535 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/id_ID/__init__.py', reloading
+2024-06-11 15:50:39,535 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/it_IT/__init__.py', reloading
+2024-06-11 15:50:39,535 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/lt_LT/__init__.py', reloading
+2024-06-11 15:50:39,536 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/id_ID/__init__.py', reloading
+2024-06-11 15:50:39,537 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/it_IT/__init__.py', reloading
+2024-06-11 15:50:39,537 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/lt_LT/__init__.py', reloading
+2024-06-11 15:50:39,537 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/nl_BE/__init__.py', reloading
+2024-06-11 15:50:39,537 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/nl_NL/__init__.py', reloading
+2024-06-11 15:50:39,537 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/no_NO/__init__.py', reloading
+2024-06-11 15:50:39,538 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/pl_PL/__init__.py', reloading
+2024-06-11 15:50:39,538 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/pt_BR/__init__.py', reloading
+2024-06-11 15:50:39,538 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/pt_PT/__init__.py', reloading
+2024-06-11 15:50:39,538 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/ro_RO/__init__.py', reloading
+2024-06-11 15:50:39,538 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,539 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,539 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/sq_AL/__init__.py', reloading
+2024-06-11 15:50:39,539 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/sv_SE/__init__.py', reloading
+2024-06-11 15:50:39,544 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/th_TH/__init__.py', reloading
+2024-06-11 15:50:39,544 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/tl_PH/__init__.py', reloading
+2024-06-11 15:50:39,544 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/tr_TR/__init__.py', reloading
+2024-06-11 15:50:39,544 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/uk_UA/__init__.py', reloading
+2024-06-11 15:50:39,545 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/vi_VN/__init__.py', reloading
+2024-06-11 15:50:39,545 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/zh_CN/__init__.py', reloading
+2024-06-11 15:50:39,545 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/automotive/zh_TW/__init__.py', reloading
+2024-06-11 15:50:39,548 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/__init__.py', reloading
+2024-06-11 15:50:39,548 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/az_AZ/__init__.py', reloading
+2024-06-11 15:50:39,548 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,548 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/cs_CZ/__init__.py', reloading
+2024-06-11 15:50:39,548 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/da_DK/__init__.py', reloading
+2024-06-11 15:50:39,548 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/de_AT/__init__.py', reloading
+2024-06-11 15:50:39,548 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/de_CH/__init__.py', reloading
+2024-06-11 15:50:39,549 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/de_DE/__init__.py', reloading
+2024-06-11 15:50:39,549 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,549 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/en_GB/__init__.py', reloading
+2024-06-11 15:50:39,549 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/en_IE/__init__.py', reloading
+2024-06-11 15:50:39,549 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/en_IN/__init__.py', reloading
+2024-06-11 15:50:39,549 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/en_PH/__init__.py', reloading
+2024-06-11 15:50:39,549 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/es_AR/__init__.py', reloading
+2024-06-11 15:50:39,550 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,550 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/es_MX/__init__.py', reloading
+2024-06-11 15:50:39,550 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/fa_IR/__init__.py', reloading
+2024-06-11 15:50:39,550 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/fi_FI/__init__.py', reloading
+2024-06-11 15:50:39,550 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/fil_PH/__init__.py', reloading
+2024-06-11 15:50:39,550 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/fr_CH/__init__.py', reloading
+2024-06-11 15:50:39,551 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/fr_FR/__init__.py', reloading
+2024-06-11 15:50:39,551 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/it_CH/__init__.py', reloading
+2024-06-11 15:50:39,551 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/it_IT/__init__.py', reloading
+2024-06-11 15:50:39,551 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/nl_BE/__init__.py', reloading
+2024-06-11 15:50:39,551 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/nl_NL/__init__.py', reloading
+2024-06-11 15:50:39,551 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/no_NO/__init__.py', reloading
+2024-06-11 15:50:39,551 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/pl_PL/__init__.py', reloading
+2024-06-11 15:50:39,552 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/pt_PT/__init__.py', reloading
+2024-06-11 15:50:39,552 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/ro_RO/__init__.py', reloading
+2024-06-11 15:50:39,552 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,552 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,552 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/th_TH/__init__.py', reloading
+2024-06-11 15:50:39,552 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/tl_PH/__init__.py', reloading
+2024-06-11 15:50:39,552 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/tr_TR/__init__.py', reloading
+2024-06-11 15:50:39,553 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/uk_UA/__init__.py', reloading
+2024-06-11 15:50:39,553 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/bank/zh_CN/__init__.py', reloading
+2024-06-11 15:50:39,553 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/barcode/__init__.py', reloading
+2024-06-11 15:50:39,553 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/barcode/en_CA/__init__.py', reloading
+2024-06-11 15:50:39,553 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/barcode/en_US/__init__.py', reloading
+2024-06-11 15:50:39,554 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/barcode/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,554 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/barcode/fr_CA/__init__.py', reloading
+2024-06-11 15:50:39,554 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/barcode/ja_JP/__init__.py', reloading
+2024-06-11 15:50:39,556 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/__init__.py', reloading
+2024-06-11 15:50:39,556 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/color.py', reloading
+2024-06-11 15:50:39,556 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/ar_PS/__init__.py', reloading
+2024-06-11 15:50:39,556 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/az_AZ/__init__.py', reloading
+2024-06-11 15:50:39,556 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/bg_BG/__init__.py', reloading
+2024-06-11 15:50:39,556 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,556 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/cs_CZ/__init__.py', reloading
+2024-06-11 15:50:39,557 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/da_DK/__init__.py', reloading
+2024-06-11 15:50:39,557 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,557 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/en_US/__init__.py', reloading
+2024-06-11 15:50:39,557 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/es/__init__.py', reloading
+2024-06-11 15:50:39,557 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/es_CL/__init__.py', reloading
+2024-06-11 15:50:39,557 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,557 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/fa_IR/__init__.py', reloading
+2024-06-11 15:50:39,558 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/fr_FR/__init__.py', reloading
+2024-06-11 15:50:39,558 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/he_IL/__init__.py', reloading
+2024-06-11 15:50:39,558 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/hr_HR/__init__.py', reloading
+2024-06-11 15:50:39,558 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/hu_HU/__init__.py', reloading
+2024-06-11 15:50:39,558 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/hy_AM/__init__.py', reloading
+2024-06-11 15:50:39,558 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/id_ID/__init__.py', reloading
+2024-06-11 15:50:39,558 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/pt_BR/__init__.py', reloading
+2024-06-11 15:50:39,559 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,559 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,559 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/th_TH/__init__.py', reloading
+2024-06-11 15:50:39,559 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/color/uk_UA/__init__.py', reloading
+2024-06-11 15:50:39,565 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/__init__.py', reloading
+2024-06-11 15:50:39,565 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/az_AZ/__init__.py', reloading
+2024-06-11 15:50:39,565 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/bg_BG/__init__.py', reloading
+2024-06-11 15:50:39,565 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,565 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/cs_CZ/__init__.py', reloading
+2024-06-11 15:50:39,565 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/da_DK/__init__.py', reloading
+2024-06-11 15:50:39,566 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/de_DE/__init__.py', reloading
+2024-06-11 15:50:39,566 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,566 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/en_PH/__init__.py', reloading
+2024-06-11 15:50:39,566 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/en_US/__init__.py', reloading
+2024-06-11 15:50:39,566 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/es_CL/__init__.py', reloading
+2024-06-11 15:50:39,566 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,566 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/es_MX/__init__.py', reloading
+2024-06-11 15:50:39,567 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/fa_IR/__init__.py', reloading
+2024-06-11 15:50:39,567 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/fi_FI/__init__.py', reloading
+2024-06-11 15:50:39,567 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/fil_PH/__init__.py', reloading
+2024-06-11 15:50:39,567 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/fr_CH/__init__.py', reloading
+2024-06-11 15:50:39,567 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/fr_FR/__init__.py', reloading
+2024-06-11 15:50:39,567 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/hr_HR/__init__.py', reloading
+2024-06-11 15:50:39,567 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/hu_HU/__init__.py', reloading
+2024-06-11 15:50:39,568 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/hy_AM/__init__.py', reloading
+2024-06-11 15:50:39,568 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/id_ID/__init__.py', reloading
+2024-06-11 15:50:39,568 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/it_IT/__init__.py', reloading
+2024-06-11 15:50:39,568 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/ja_JP/__init__.py', reloading
+2024-06-11 15:50:39,568 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/ko_KR/__init__.py', reloading
+2024-06-11 15:50:39,568 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/nl_BE/__init__.py', reloading
+2024-06-11 15:50:39,568 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/nl_NL/__init__.py', reloading
+2024-06-11 15:50:39,569 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/no_NO/__init__.py', reloading
+2024-06-11 15:50:39,569 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/pl_PL/__init__.py', reloading
+2024-06-11 15:50:39,569 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/pt_BR/__init__.py', reloading
+2024-06-11 15:50:39,569 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/pt_PT/__init__.py', reloading
+2024-06-11 15:50:39,569 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/ro_RO/__init__.py', reloading
+2024-06-11 15:50:39,569 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,569 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,578 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,578 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,579 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/sl_SI/__init__.py', reloading
+2024-06-11 15:50:39,579 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/sv_SE/__init__.py', reloading
+2024-06-11 15:50:39,579 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/th_TH/__init__.py', reloading
+2024-06-11 15:50:39,579 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/tl_PH/__init__.py', reloading
+2024-06-11 15:50:39,580 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/tr_TR/__init__.py', reloading
+2024-06-11 15:50:39,580 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/zh_CN/__init__.py', reloading
+2024-06-11 15:50:39,580 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/company/zh_TW/__init__.py', reloading
+2024-06-11 15:50:39,580 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/credit_card/__init__.py', reloading
+2024-06-11 15:50:39,581 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/credit_card/en_US/__init__.py', reloading
+2024-06-11 15:50:39,581 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/credit_card/fa_IR/__init__.py', reloading
+2024-06-11 15:50:39,581 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/credit_card/pt_PT/__init__.py', reloading
+2024-06-11 15:50:39,581 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/credit_card/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,581 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/credit_card/uk_UA/__init__.py', reloading
+2024-06-11 15:50:39,583 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/__init__.py', reloading
+2024-06-11 15:50:39,583 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/az_AZ/__init__.py', reloading
+2024-06-11 15:50:39,583 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,584 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/cs_CZ/__init__.py', reloading
+2024-06-11 15:50:39,584 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/da_DK/__init__.py', reloading
+2024-06-11 15:50:39,584 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/de_AT/__init__.py', reloading
+2024-06-11 15:50:39,584 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/de_DE/__init__.py', reloading
+2024-06-11 15:50:39,584 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,584 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/en_AU/__init__.py', reloading
+2024-06-11 15:50:39,584 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/en_CA/__init__.py', reloading
+2024-06-11 15:50:39,585 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/en_US/__init__.py', reloading
+2024-06-11 15:50:39,585 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/es/__init__.py', reloading
+2024-06-11 15:50:39,585 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/es_AR/__init__.py', reloading
+2024-06-11 15:50:39,585 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/es_CL/__init__.py', reloading
+2024-06-11 15:50:39,585 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,585 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/fa_IR/__init__.py', reloading
+2024-06-11 15:50:39,585 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/fr_CA/__init__.py', reloading
+2024-06-11 15:50:39,586 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/fr_FR/__init__.py', reloading
+2024-06-11 15:50:39,586 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/it_IT/__init__.py', reloading
+2024-06-11 15:50:39,586 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/nl_NL/__init__.py', reloading
+2024-06-11 15:50:39,586 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/pl_PL/__init__.py', reloading
+2024-06-11 15:50:39,586 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/pt_BR/__init__.py', reloading
+2024-06-11 15:50:39,586 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/ro_RO/__init__.py', reloading
+2024-06-11 15:50:39,587 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,587 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,587 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/sv_SE/__init__.py', reloading
+2024-06-11 15:50:39,587 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/th_TH/__init__.py', reloading
+2024-06-11 15:50:39,587 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/currency/tr_TR/__init__.py', reloading
+2024-06-11 15:50:39,590 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/__init__.py', reloading
+2024-06-11 15:50:39,590 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/ar_AA/__init__.py', reloading
+2024-06-11 15:50:39,590 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/ar_EG/__init__.py', reloading
+2024-06-11 15:50:39,590 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/az_AZ/__init__.py', reloading
+2024-06-11 15:50:39,591 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,591 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/cs_CZ/__init__.py', reloading
+2024-06-11 15:50:39,591 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/da_DK/__init__.py', reloading
+2024-06-11 15:50:39,591 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/de_AT/__init__.py', reloading
+2024-06-11 15:50:39,591 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/de_DE/__init__.py', reloading
+2024-06-11 15:50:39,591 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,591 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/en_PH/__init__.py', reloading
+2024-06-11 15:50:39,592 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/en_US/__init__.py', reloading
+2024-06-11 15:50:39,592 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/es/__init__.py', reloading
+2024-06-11 15:50:39,592 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/es_AR/__init__.py', reloading
+2024-06-11 15:50:39,592 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/es_CL/__init__.py', reloading
+2024-06-11 15:50:39,592 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,592 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/fil_PH/__init__.py', reloading
+2024-06-11 15:50:39,592 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/fr_CA/__init__.py', reloading
+2024-06-11 15:50:39,593 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/fr_FR/__init__.py', reloading
+2024-06-11 15:50:39,593 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/hi_IN/__init__.py', reloading
+2024-06-11 15:50:39,593 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/hr_HR/__init__.py', reloading
+2024-06-11 15:50:39,593 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/hu_HU/__init__.py', reloading
+2024-06-11 15:50:39,593 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/hy_AM/__init__.py', reloading
+2024-06-11 15:50:39,593 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/id_ID/__init__.py', reloading
+2024-06-11 15:50:39,593 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/it_IT/__init__.py', reloading
+2024-06-11 15:50:39,594 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/ja_JP/__init__.py', reloading
+2024-06-11 15:50:39,594 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/ko_KR/__init__.py', reloading
+2024-06-11 15:50:39,594 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/nl_NL/__init__.py', reloading
+2024-06-11 15:50:39,594 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/no_NO/__init__.py', reloading
+2024-06-11 15:50:39,594 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/pl_PL/__init__.py', reloading
+2024-06-11 15:50:39,594 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/pt_BR/__init__.py', reloading
+2024-06-11 15:50:39,594 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/pt_PT/__init__.py', reloading
+2024-06-11 15:50:39,595 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/ro_RO/__init__.py', reloading
+2024-06-11 15:50:39,595 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,595 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,595 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/sl_SI/__init__.py', reloading
+2024-06-11 15:50:39,595 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/ta_IN/__init__.py', reloading
+2024-06-11 15:50:39,595 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/th_TH/__init__.py', reloading
+2024-06-11 15:50:39,595 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/tl_PH/__init__.py', reloading
+2024-06-11 15:50:39,596 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/tr_TR/__init__.py', reloading
+2024-06-11 15:50:39,596 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/zh_CN/__init__.py', reloading
+2024-06-11 15:50:39,596 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/date_time/zh_TW/__init__.py', reloading
+2024-06-11 15:50:39,596 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/emoji/__init__.py', reloading
+2024-06-11 15:50:39,596 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/emoji/en_US/__init__.py', reloading
+2024-06-11 15:50:39,597 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/file/__init__.py', reloading
+2024-06-11 15:50:39,597 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/file/en_US/__init__.py', reloading
+2024-06-11 15:50:39,597 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/__init__.py', reloading
+2024-06-11 15:50:39,598 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,598 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/cs_CZ/__init__.py', reloading
+2024-06-11 15:50:39,598 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/de_AT/__init__.py', reloading
+2024-06-11 15:50:39,598 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,598 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/en_IE/__init__.py', reloading
+2024-06-11 15:50:39,598 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/en_US/__init__.py', reloading
+2024-06-11 15:50:39,598 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/pl_PL/__init__.py', reloading
+2024-06-11 15:50:39,599 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/pt_PT/__init__.py', reloading
+2024-06-11 15:50:39,599 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,599 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/geo/tr_TR/__init__.py', reloading
+2024-06-11 15:50:39,602 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/__init__.py', reloading
+2024-06-11 15:50:39,602 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/ar_AA/__init__.py', reloading
+2024-06-11 15:50:39,602 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/az_AZ/__init__.py', reloading
+2024-06-11 15:50:39,602 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/bg_BG/__init__.py', reloading
+2024-06-11 15:50:39,602 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/bn_BD/__init__.py', reloading
+2024-06-11 15:50:39,603 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/bs_BA/__init__.py', reloading
+2024-06-11 15:50:39,603 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/cs_CZ/__init__.py', reloading
+2024-06-11 15:50:39,603 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/de_AT/__init__.py', reloading
+2024-06-11 15:50:39,603 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/de_DE/__init__.py', reloading
+2024-06-11 15:50:39,603 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/el_GR/__init__.py', reloading
+2024-06-11 15:50:39,603 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/en_AU/__init__.py', reloading
+2024-06-11 15:50:39,603 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/en_GB/__init__.py', reloading
+2024-06-11 15:50:39,604 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/en_NZ/__init__.py', reloading
+2024-06-11 15:50:39,604 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/en_PH/__init__.py', reloading
+2024-06-11 15:50:39,604 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/en_US/__init__.py', reloading
+2024-06-11 15:50:39,604 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/es_AR/__init__.py', reloading
+2024-06-11 15:50:39,604 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/es_CL/__init__.py', reloading
+2024-06-11 15:50:39,604 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/es_ES/__init__.py', reloading
+2024-06-11 15:50:39,604 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/fa_IR/__init__.py', reloading
+2024-06-11 15:50:39,605 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/fi_FI/__init__.py', reloading
+2024-06-11 15:50:39,605 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/fil_PH/__init__.py', reloading
+2024-06-11 15:50:39,605 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/fr_CH/__init__.py', reloading
+2024-06-11 15:50:39,605 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/fr_FR/__init__.py', reloading
+2024-06-11 15:50:39,605 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/hr_HR/__init__.py', reloading
+2024-06-11 15:50:39,605 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/hu_HU/__init__.py', reloading
+2024-06-11 15:50:39,605 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/id_ID/__init__.py', reloading
+2024-06-11 15:50:39,605 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/it_IT/__init__.py', reloading
+2024-06-11 15:50:39,606 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/ja_JP/__init__.py', reloading
+2024-06-11 15:50:39,606 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/ko_KR/__init__.py', reloading
+2024-06-11 15:50:39,606 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/no_NO/__init__.py', reloading
+2024-06-11 15:50:39,606 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/pl_PL/__init__.py', reloading
+2024-06-11 15:50:39,606 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/pt_BR/__init__.py', reloading
+2024-06-11 15:50:39,606 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/pt_PT/__init__.py', reloading
+2024-06-11 15:50:39,606 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/ro_RO/__init__.py', reloading
+2024-06-11 15:50:39,607 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/ru_RU/__init__.py', reloading
+2024-06-11 15:50:39,607 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/sk_SK/__init__.py', reloading
+2024-06-11 15:50:39,607 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/sl_SI/__init__.py', reloading
+2024-06-11 15:50:39,607 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/sv_SE/__init__.py', reloading
+2024-06-11 15:50:39,607 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/th_TH/__init__.py', reloading
+2024-06-11 15:50:39,607 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/tl_PH/__init__.py', reloading
+2024-06-11 15:50:39,607 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/tr_TR/__init__.py', reloading
+2024-06-11 15:50:39,608 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/uk_UA/__init__.py', reloading
+2024-06-11 15:50:39,608 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/zh_CN/__init__.py', reloading
+2024-06-11 15:50:39,608 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/internet/zh_TW/__init__.py', reloading
+2024-06-11 15:50:39,613 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/isbn/__init__.py', reloading
+2024-06-11 15:50:39,613 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/isbn/isbn.py', reloading
+2024-06-11 15:50:39,613 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/isbn/rules.py', reloading
+2024-06-11 15:50:39,613 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/isbn/en_US/__init__.py', reloading
+2024-06-11 15:50:39,616 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/faker/providers/job/__init__.py', reloading
+2024-06-11 15:50:39,726 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:50:40,232 - WARNING -  * Debugger is active!
+2024-06-11 15:50:40,232 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:51:27,013 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:51:27,020 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:51:27,160 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:51:27,161 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:51:28,093 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:51:28,594 - WARNING -  * Debugger is active!
+2024-06-11 15:51:28,595 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:52:24,521 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:24,521 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:24,527 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:24,707 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:24,709 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:25,413 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:52:25,913 - WARNING -  * Debugger is active!
+2024-06-11 15:52:25,914 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:52:45,392 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:45,398 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:45,585 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:52:46,093 - WARNING -  * Debugger is active!
+2024-06-11 15:52:46,094 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:52:54,799 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:54,805 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:54,972 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:54,972 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:54,974 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:52:55,613 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:52:56,121 - WARNING -  * Debugger is active!
+2024-06-11 15:52:56,121 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 15:54:09,360 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:54:09,366 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 15:54:10,047 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 15:54:10,546 - WARNING -  * Debugger is active!
+2024-06-11 15:54:10,547 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:10:40,856 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/et_xmlfile/__init__.py', reloading
+2024-06-11 16:10:40,857 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/et_xmlfile/xmlfile.py', reloading
+2024-06-11 16:10:40,869 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/__init__.py', reloading
+2024-06-11 16:10:40,869 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/__init__.py', reloading
+2024-06-11 16:10:40,870 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/__init__.py', reloading
+2024-06-11 16:10:40,870 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/_constants.py', reloading
+2024-06-11 16:10:40,870 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/_constants.py', reloading
+2024-06-11 16:10:40,871 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/_constants.py', reloading
+2024-06-11 16:10:40,871 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/__init__.py', reloading
+2024-06-11 16:10:40,871 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/_writer.py', reloading
+2024-06-11 16:10:40,871 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/cell.py', reloading
+2024-06-11 16:10:40,872 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/read_only.py', reloading
+2024-06-11 16:10:40,872 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/cell.py', reloading
+2024-06-11 16:10:40,873 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/cell.py', reloading
+2024-06-11 16:10:40,873 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/cell.py', reloading
+2024-06-11 16:10:40,873 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/read_only.py', reloading
+2024-06-11 16:10:40,874 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/read_only.py', reloading
+2024-06-11 16:10:40,874 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/read_only.py', reloading
+2024-06-11 16:10:40,874 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/rich_text.py', reloading
+2024-06-11 16:10:40,875 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/rich_text.py', reloading
+2024-06-11 16:10:40,875 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/rich_text.py', reloading
+2024-06-11 16:10:40,875 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/text.py', reloading
+2024-06-11 16:10:40,875 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/text.py', reloading
+2024-06-11 16:10:40,876 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/cell/text.py', reloading
+2024-06-11 16:10:40,876 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/_3d.py', reloading
+2024-06-11 16:10:40,877 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/__init__.py', reloading
+2024-06-11 16:10:40,877 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/_chart.py', reloading
+2024-06-11 16:10:40,877 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/area_chart.py', reloading
+2024-06-11 16:10:40,877 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/axis.py', reloading
+2024-06-11 16:10:40,877 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/_chart.py', reloading
+2024-06-11 16:10:40,878 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/_chart.py', reloading
+2024-06-11 16:10:40,878 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/_chart.py', reloading
+2024-06-11 16:10:40,878 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/area_chart.py', reloading
+2024-06-11 16:10:40,878 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/area_chart.py', reloading
+2024-06-11 16:10:40,879 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/area_chart.py', reloading
+2024-06-11 16:10:40,879 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/axis.py', reloading
+2024-06-11 16:10:40,879 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/axis.py', reloading
+2024-06-11 16:10:40,879 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/axis.py', reloading
+2024-06-11 16:10:40,880 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/bar_chart.py', reloading
+2024-06-11 16:10:40,880 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/bar_chart.py', reloading
+2024-06-11 16:10:40,880 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/bar_chart.py', reloading
+2024-06-11 16:10:40,881 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/bubble_chart.py', reloading
+2024-06-11 16:10:40,881 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/bubble_chart.py', reloading
+2024-06-11 16:10:40,882 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/bubble_chart.py', reloading
+2024-06-11 16:10:40,882 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/chartspace.py', reloading
+2024-06-11 16:10:40,882 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/chartspace.py', reloading
+2024-06-11 16:10:40,882 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/chartspace.py', reloading
+2024-06-11 16:10:40,882 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/data_source.py', reloading
+2024-06-11 16:10:40,883 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/data_source.py', reloading
+2024-06-11 16:10:40,883 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/data_source.py', reloading
+2024-06-11 16:10:40,883 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/descriptors.py', reloading
+2024-06-11 16:10:40,883 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/descriptors.py', reloading
+2024-06-11 16:10:40,883 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/descriptors.py', reloading
+2024-06-11 16:10:40,883 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/error_bar.py', reloading
+2024-06-11 16:10:40,884 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/error_bar.py', reloading
+2024-06-11 16:10:40,884 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/error_bar.py', reloading
+2024-06-11 16:10:40,884 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/label.py', reloading
+2024-06-11 16:10:40,884 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/label.py', reloading
+2024-06-11 16:10:40,885 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/label.py', reloading
+2024-06-11 16:10:40,885 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/layout.py', reloading
+2024-06-11 16:10:40,885 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/layout.py', reloading
+2024-06-11 16:10:40,886 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/layout.py', reloading
+2024-06-11 16:10:40,886 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/legend.py', reloading
+2024-06-11 16:10:40,886 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/legend.py', reloading
+2024-06-11 16:10:40,886 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/legend.py', reloading
+2024-06-11 16:10:40,887 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/line_chart.py', reloading
+2024-06-11 16:10:40,887 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/line_chart.py', reloading
+2024-06-11 16:10:40,888 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/line_chart.py', reloading
+2024-06-11 16:10:40,888 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/marker.py', reloading
+2024-06-11 16:10:40,888 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/marker.py', reloading
+2024-06-11 16:10:40,888 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/marker.py', reloading
+2024-06-11 16:10:40,888 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/picture.py', reloading
+2024-06-11 16:10:40,889 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/picture.py', reloading
+2024-06-11 16:10:40,889 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/picture.py', reloading
+2024-06-11 16:10:40,890 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/pie_chart.py', reloading
+2024-06-11 16:10:40,890 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/pie_chart.py', reloading
+2024-06-11 16:10:40,890 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/pie_chart.py', reloading
+2024-06-11 16:10:40,890 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/pivot.py', reloading
+2024-06-11 16:10:40,890 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/pivot.py', reloading
+2024-06-11 16:10:40,891 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/pivot.py', reloading
+2024-06-11 16:10:40,891 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/plotarea.py', reloading
+2024-06-11 16:10:40,892 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/plotarea.py', reloading
+2024-06-11 16:10:40,892 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/plotarea.py', reloading
+2024-06-11 16:10:40,892 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/print_settings.py', reloading
+2024-06-11 16:10:40,892 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/print_settings.py', reloading
+2024-06-11 16:10:40,892 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/print_settings.py', reloading
+2024-06-11 16:10:40,893 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/radar_chart.py', reloading
+2024-06-11 16:10:40,893 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/radar_chart.py', reloading
+2024-06-11 16:10:40,894 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/radar_chart.py', reloading
+2024-06-11 16:10:40,894 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/reader.py', reloading
+2024-06-11 16:10:40,894 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/reader.py', reloading
+2024-06-11 16:10:40,895 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/reader.py', reloading
+2024-06-11 16:10:40,895 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/reference.py', reloading
+2024-06-11 16:10:40,895 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/reference.py', reloading
+2024-06-11 16:10:40,896 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/reference.py', reloading
+2024-06-11 16:10:40,896 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/scatter_chart.py', reloading
+2024-06-11 16:10:40,896 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/scatter_chart.py', reloading
+2024-06-11 16:10:40,897 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/scatter_chart.py', reloading
+2024-06-11 16:10:40,897 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/series.py', reloading
+2024-06-11 16:10:40,897 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/series.py', reloading
+2024-06-11 16:10:40,897 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/series.py', reloading
+2024-06-11 16:10:40,897 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/series_factory.py', reloading
+2024-06-11 16:10:40,898 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/series_factory.py', reloading
+2024-06-11 16:10:40,898 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/series_factory.py', reloading
+2024-06-11 16:10:40,898 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/shapes.py', reloading
+2024-06-11 16:10:40,898 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/shapes.py', reloading
+2024-06-11 16:10:40,899 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/shapes.py', reloading
+2024-06-11 16:10:40,899 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/stock_chart.py', reloading
+2024-06-11 16:10:40,899 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/stock_chart.py', reloading
+2024-06-11 16:10:40,899 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/stock_chart.py', reloading
+2024-06-11 16:10:40,899 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/surface_chart.py', reloading
+2024-06-11 16:10:40,900 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/surface_chart.py', reloading
+2024-06-11 16:10:40,900 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/surface_chart.py', reloading
+2024-06-11 16:10:40,900 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/text.py', reloading
+2024-06-11 16:10:40,900 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/text.py', reloading
+2024-06-11 16:10:40,901 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/text.py', reloading
+2024-06-11 16:10:40,901 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/title.py', reloading
+2024-06-11 16:10:40,901 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/title.py', reloading
+2024-06-11 16:10:40,901 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/title.py', reloading
+2024-06-11 16:10:40,901 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/trendline.py', reloading
+2024-06-11 16:10:40,902 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/trendline.py', reloading
+2024-06-11 16:10:40,902 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/trendline.py', reloading
+2024-06-11 16:10:40,902 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/updown_bars.py', reloading
+2024-06-11 16:10:40,902 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/updown_bars.py', reloading
+2024-06-11 16:10:40,902 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chart/updown_bars.py', reloading
+2024-06-11 16:10:40,903 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/__init__.py', reloading
+2024-06-11 16:10:40,903 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/chartsheet.py', reloading
+2024-06-11 16:10:40,903 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/custom.py', reloading
+2024-06-11 16:10:40,903 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/properties.py', reloading
+2024-06-11 16:10:40,903 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/chartsheet.py', reloading
+2024-06-11 16:10:40,903 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/chartsheet.py', reloading
+2024-06-11 16:10:40,904 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/chartsheet.py', reloading
+2024-06-11 16:10:40,904 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/custom.py', reloading
+2024-06-11 16:10:40,904 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/custom.py', reloading
+2024-06-11 16:10:40,904 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/custom.py', reloading
+2024-06-11 16:10:40,904 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/properties.py', reloading
+2024-06-11 16:10:40,905 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/properties.py', reloading
+2024-06-11 16:10:40,905 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/properties.py', reloading
+2024-06-11 16:10:40,905 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/protection.py', reloading
+2024-06-11 16:10:40,905 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/protection.py', reloading
+2024-06-11 16:10:40,905 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/protection.py', reloading
+2024-06-11 16:10:40,906 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/publish.py', reloading
+2024-06-11 16:10:40,906 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/publish.py', reloading
+2024-06-11 16:10:40,906 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/publish.py', reloading
+2024-06-11 16:10:40,906 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/relation.py', reloading
+2024-06-11 16:10:40,907 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/relation.py', reloading
+2024-06-11 16:10:40,907 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/relation.py', reloading
+2024-06-11 16:10:40,907 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/views.py', reloading
+2024-06-11 16:10:40,907 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/views.py', reloading
+2024-06-11 16:10:40,907 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/chartsheet/views.py', reloading
+2024-06-11 16:10:40,907 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/__init__.py', reloading
+2024-06-11 16:10:40,907 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/author.py', reloading
+2024-06-11 16:10:40,908 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/comment_sheet.py', reloading
+2024-06-11 16:10:40,908 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/comments.py', reloading
+2024-06-11 16:10:40,908 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/shape_writer.py', reloading
+2024-06-11 16:10:40,908 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/author.py', reloading
+2024-06-11 16:10:40,908 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/author.py', reloading
+2024-06-11 16:10:40,909 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/author.py', reloading
+2024-06-11 16:10:40,909 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/comment_sheet.py', reloading
+2024-06-11 16:10:40,909 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/comment_sheet.py', reloading
+2024-06-11 16:10:40,909 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/comment_sheet.py', reloading
+2024-06-11 16:10:40,909 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/comments.py', reloading
+2024-06-11 16:10:40,910 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/comments.py', reloading
+2024-06-11 16:10:40,910 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/comments.py', reloading
+2024-06-11 16:10:40,910 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/shape_writer.py', reloading
+2024-06-11 16:10:40,910 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/shape_writer.py', reloading
+2024-06-11 16:10:40,910 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/comments/shape_writer.py', reloading
+2024-06-11 16:10:40,910 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/compat/__init__.py', reloading
+2024-06-11 16:10:40,911 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/compat/abc.py', reloading
+2024-06-11 16:10:40,911 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/compat/numbers.py', reloading
+2024-06-11 16:10:40,911 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/compat/product.py', reloading
+2024-06-11 16:10:40,911 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/compat/singleton.py', reloading
+2024-06-11 16:10:40,911 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/compat/strings.py', reloading
+2024-06-11 16:10:40,911 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/compat/strings.py', reloading
+2024-06-11 16:10:40,912 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/compat/strings.py', reloading
+2024-06-11 16:10:40,912 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/__init__.py', reloading
+2024-06-11 16:10:40,912 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/base.py', reloading
+2024-06-11 16:10:40,912 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/container.py', reloading
+2024-06-11 16:10:40,913 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/excel.py', reloading
+2024-06-11 16:10:40,913 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/namespace.py', reloading
+2024-06-11 16:10:40,913 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/nested.py', reloading
+2024-06-11 16:10:40,913 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/sequence.py', reloading
+2024-06-11 16:10:40,913 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/serialisable.py', reloading
+2024-06-11 16:10:40,914 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/namespace.py', reloading
+2024-06-11 16:10:40,914 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/namespace.py', reloading
+2024-06-11 16:10:40,914 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/namespace.py', reloading
+2024-06-11 16:10:40,914 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/nested.py', reloading
+2024-06-11 16:10:40,915 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/nested.py', reloading
+2024-06-11 16:10:40,915 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/nested.py', reloading
+2024-06-11 16:10:40,915 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/sequence.py', reloading
+2024-06-11 16:10:40,915 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/sequence.py', reloading
+2024-06-11 16:10:40,915 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/sequence.py', reloading
+2024-06-11 16:10:40,916 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/serialisable.py', reloading
+2024-06-11 16:10:40,916 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/serialisable.py', reloading
+2024-06-11 16:10:40,916 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/serialisable.py', reloading
+2024-06-11 16:10:40,916 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/slots.py', reloading
+2024-06-11 16:10:40,917 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/slots.py', reloading
+2024-06-11 16:10:40,917 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/descriptors/slots.py', reloading
+2024-06-11 16:10:40,917 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/__init__.py', reloading
+2024-06-11 16:10:40,917 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/colors.py', reloading
+2024-06-11 16:10:40,917 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/connector.py', reloading
+2024-06-11 16:10:40,918 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/drawing.py', reloading
+2024-06-11 16:10:40,918 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/effect.py', reloading
+2024-06-11 16:10:40,918 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/fill.py', reloading
+2024-06-11 16:10:40,918 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/effect.py', reloading
+2024-06-11 16:10:40,918 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/effect.py', reloading
+2024-06-11 16:10:40,918 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/fill.py', reloading
+2024-06-11 16:10:40,919 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/fill.py', reloading
+2024-06-11 16:10:40,919 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/fill.py', reloading
+2024-06-11 16:10:40,919 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/geometry.py', reloading
+2024-06-11 16:10:40,919 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/geometry.py', reloading
+2024-06-11 16:10:40,920 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/geometry.py', reloading
+2024-06-11 16:10:40,920 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/graphic.py', reloading
+2024-06-11 16:10:40,920 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/graphic.py', reloading
+2024-06-11 16:10:40,920 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/graphic.py', reloading
+2024-06-11 16:10:40,921 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/image.py', reloading
+2024-06-11 16:10:40,921 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/image.py', reloading
+2024-06-11 16:10:40,921 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/image.py', reloading
+2024-06-11 16:10:40,921 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/line.py', reloading
+2024-06-11 16:10:40,921 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/line.py', reloading
+2024-06-11 16:10:40,921 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/line.py', reloading
+2024-06-11 16:10:40,922 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/picture.py', reloading
+2024-06-11 16:10:40,922 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/picture.py', reloading
+2024-06-11 16:10:40,922 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/picture.py', reloading
+2024-06-11 16:10:40,922 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/properties.py', reloading
+2024-06-11 16:10:40,923 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/properties.py', reloading
+2024-06-11 16:10:40,923 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/properties.py', reloading
+2024-06-11 16:10:40,923 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/relation.py', reloading
+2024-06-11 16:10:40,923 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/relation.py', reloading
+2024-06-11 16:10:40,924 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/relation.py', reloading
+2024-06-11 16:10:40,924 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/spreadsheet_drawing.py', reloading
+2024-06-11 16:10:40,924 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/spreadsheet_drawing.py', reloading
+2024-06-11 16:10:40,924 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/spreadsheet_drawing.py', reloading
+2024-06-11 16:10:40,924 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/text.py', reloading
+2024-06-11 16:10:40,925 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/text.py', reloading
+2024-06-11 16:10:40,925 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/text.py', reloading
+2024-06-11 16:10:40,925 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/xdr.py', reloading
+2024-06-11 16:10:40,925 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/xdr.py', reloading
+2024-06-11 16:10:40,926 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/drawing/xdr.py', reloading
+2024-06-11 16:10:40,926 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/formatting/__init__.py', reloading
+2024-06-11 16:10:40,926 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/formatting/formatting.py', reloading
+2024-06-11 16:10:40,926 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/formatting/rule.py', reloading
+2024-06-11 16:10:40,926 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/formatting/rule.py', reloading
+2024-06-11 16:10:40,927 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/formatting/rule.py', reloading
+2024-06-11 16:10:40,927 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/formula/__init__.py', reloading
+2024-06-11 16:10:40,927 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/formula/tokenizer.py', reloading
+2024-06-11 16:10:40,928 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/formula/translate.py', reloading
+2024-06-11 16:10:40,928 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/__init__.py', reloading
+2024-06-11 16:10:40,928 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/core.py', reloading
+2024-06-11 16:10:40,929 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/custom.py', reloading
+2024-06-11 16:10:40,929 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/extended.py', reloading
+2024-06-11 16:10:40,929 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/interface.py', reloading
+2024-06-11 16:10:40,929 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/manifest.py', reloading
+2024-06-11 16:10:40,929 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/relationship.py', reloading
+2024-06-11 16:10:40,930 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/workbook.py', reloading
+2024-06-11 16:10:40,930 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/interface.py', reloading
+2024-06-11 16:10:40,930 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/interface.py', reloading
+2024-06-11 16:10:40,930 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/interface.py', reloading
+2024-06-11 16:10:40,930 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/manifest.py', reloading
+2024-06-11 16:10:40,931 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/manifest.py', reloading
+2024-06-11 16:10:40,931 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/manifest.py', reloading
+2024-06-11 16:10:40,931 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/relationship.py', reloading
+2024-06-11 16:10:40,932 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/relationship.py', reloading
+2024-06-11 16:10:40,932 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/relationship.py', reloading
+2024-06-11 16:10:40,932 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/workbook.py', reloading
+2024-06-11 16:10:40,932 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/workbook.py', reloading
+2024-06-11 16:10:40,932 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/packaging/workbook.py', reloading
+2024-06-11 16:10:40,933 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/__init__.py', reloading
+2024-06-11 16:10:40,933 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/cache.py', reloading
+2024-06-11 16:10:40,933 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/fields.py', reloading
+2024-06-11 16:10:40,933 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/record.py', reloading
+2024-06-11 16:10:40,933 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/table.py', reloading
+2024-06-11 16:10:40,934 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/record.py', reloading
+2024-06-11 16:10:40,934 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/record.py', reloading
+2024-06-11 16:10:40,934 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/record.py', reloading
+2024-06-11 16:10:40,935 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/table.py', reloading
+2024-06-11 16:10:40,935 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/table.py', reloading
+2024-06-11 16:10:40,935 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/pivot/table.py', reloading
+2024-06-11 16:10:40,935 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/reader/__init__.py', reloading
+2024-06-11 16:10:40,936 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/reader/drawings.py', reloading
+2024-06-11 16:10:40,936 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/reader/excel.py', reloading
+2024-06-11 16:10:40,936 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/reader/strings.py', reloading
+2024-06-11 16:10:40,936 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/reader/workbook.py', reloading
+2024-06-11 16:10:40,936 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/reader/workbook.py', reloading
+2024-06-11 16:10:40,937 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/reader/workbook.py', reloading
+2024-06-11 16:10:40,937 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/reader/workbook.py', reloading
+2024-06-11 16:10:40,937 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/__init__.py', reloading
+2024-06-11 16:10:40,937 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/alignment.py', reloading
+2024-06-11 16:10:40,938 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/borders.py', reloading
+2024-06-11 16:10:40,938 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/builtins.py', reloading
+2024-06-11 16:10:40,938 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/cell_style.py', reloading
+2024-06-11 16:10:40,938 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/builtins.py', reloading
+2024-06-11 16:10:40,938 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/builtins.py', reloading
+2024-06-11 16:10:40,938 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/cell_style.py', reloading
+2024-06-11 16:10:40,939 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/cell_style.py', reloading
+2024-06-11 16:10:40,939 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/cell_style.py', reloading
+2024-06-11 16:10:40,939 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/colors.py', reloading
+2024-06-11 16:10:40,939 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/colors.py', reloading
+2024-06-11 16:10:40,939 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/colors.py', reloading
+2024-06-11 16:10:40,940 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/differential.py', reloading
+2024-06-11 16:10:40,940 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/differential.py', reloading
+2024-06-11 16:10:40,940 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/differential.py', reloading
+2024-06-11 16:10:40,940 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/fills.py', reloading
+2024-06-11 16:10:40,940 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/fills.py', reloading
+2024-06-11 16:10:40,941 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/fills.py', reloading
+2024-06-11 16:10:40,941 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/fonts.py', reloading
+2024-06-11 16:10:40,941 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/fonts.py', reloading
+2024-06-11 16:10:40,941 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/fonts.py', reloading
+2024-06-11 16:10:40,941 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/named_styles.py', reloading
+2024-06-11 16:10:40,942 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/named_styles.py', reloading
+2024-06-11 16:10:40,942 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/named_styles.py', reloading
+2024-06-11 16:10:40,942 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/numbers.py', reloading
+2024-06-11 16:10:40,942 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/numbers.py', reloading
+2024-06-11 16:10:40,942 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/numbers.py', reloading
+2024-06-11 16:10:40,942 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/protection.py', reloading
+2024-06-11 16:10:40,943 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/protection.py', reloading
+2024-06-11 16:10:40,943 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/protection.py', reloading
+2024-06-11 16:10:40,943 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/proxy.py', reloading
+2024-06-11 16:10:40,943 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/proxy.py', reloading
+2024-06-11 16:10:40,943 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/proxy.py', reloading
+2024-06-11 16:10:40,944 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/styleable.py', reloading
+2024-06-11 16:10:40,944 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/styleable.py', reloading
+2024-06-11 16:10:40,944 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/styleable.py', reloading
+2024-06-11 16:10:40,944 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/stylesheet.py', reloading
+2024-06-11 16:10:40,944 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/stylesheet.py', reloading
+2024-06-11 16:10:40,945 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/stylesheet.py', reloading
+2024-06-11 16:10:40,945 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/table.py', reloading
+2024-06-11 16:10:40,945 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/table.py', reloading
+2024-06-11 16:10:40,945 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/styles/table.py', reloading
+2024-06-11 16:10:40,945 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/__init__.py', reloading
+2024-06-11 16:10:40,945 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/bound_dictionary.py', reloading
+2024-06-11 16:10:40,946 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/cell.py', reloading
+2024-06-11 16:10:40,946 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/dataframe.py', reloading
+2024-06-11 16:10:40,946 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/__init__.py', reloading
+2024-06-11 16:10:40,946 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/bound_dictionary.py', reloading
+2024-06-11 16:10:40,946 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/bound_dictionary.py', reloading
+2024-06-11 16:10:40,946 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/bound_dictionary.py', reloading
+2024-06-11 16:10:40,947 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/cell.py', reloading
+2024-06-11 16:10:40,947 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/cell.py', reloading
+2024-06-11 16:10:40,947 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/cell.py', reloading
+2024-06-11 16:10:40,947 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/dataframe.py', reloading
+2024-06-11 16:10:40,947 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/dataframe.py', reloading
+2024-06-11 16:10:40,947 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/dataframe.py', reloading
+2024-06-11 16:10:40,948 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/datetime.py', reloading
+2024-06-11 16:10:40,948 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/datetime.py', reloading
+2024-06-11 16:10:40,948 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/datetime.py', reloading
+2024-06-11 16:10:40,948 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/escape.py', reloading
+2024-06-11 16:10:40,948 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/escape.py', reloading
+2024-06-11 16:10:40,948 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/escape.py', reloading
+2024-06-11 16:10:40,949 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/exceptions.py', reloading
+2024-06-11 16:10:40,949 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/exceptions.py', reloading
+2024-06-11 16:10:40,949 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/exceptions.py', reloading
+2024-06-11 16:10:40,949 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/formulas.py', reloading
+2024-06-11 16:10:40,949 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/formulas.py', reloading
+2024-06-11 16:10:40,949 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/formulas.py', reloading
+2024-06-11 16:10:40,949 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/indexed_list.py', reloading
+2024-06-11 16:10:40,950 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/indexed_list.py', reloading
+2024-06-11 16:10:40,950 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/indexed_list.py', reloading
+2024-06-11 16:10:40,950 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/inference.py', reloading
+2024-06-11 16:10:40,950 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/inference.py', reloading
+2024-06-11 16:10:40,950 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/inference.py', reloading
+2024-06-11 16:10:40,951 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/protection.py', reloading
+2024-06-11 16:10:40,951 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/protection.py', reloading
+2024-06-11 16:10:40,951 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/protection.py', reloading
+2024-06-11 16:10:40,951 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/units.py', reloading
+2024-06-11 16:10:40,952 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/units.py', reloading
+2024-06-11 16:10:40,952 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/utils/units.py', reloading
+2024-06-11 16:10:40,952 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/__init__.py', reloading
+2024-06-11 16:10:40,952 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/_writer.py', reloading
+2024-06-11 16:10:40,952 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/child.py', reloading
+2024-06-11 16:10:40,952 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/defined_name.py', reloading
+2024-06-11 16:10:40,953 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/external_reference.py', reloading
+2024-06-11 16:10:40,953 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/function_group.py', reloading
+2024-06-11 16:10:40,953 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/defined_name.py', reloading
+2024-06-11 16:10:40,953 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/defined_name.py', reloading
+2024-06-11 16:10:40,953 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/defined_name.py', reloading
+2024-06-11 16:10:40,953 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/external_reference.py', reloading
+2024-06-11 16:10:40,954 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/external_reference.py', reloading
+2024-06-11 16:10:40,954 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/external_reference.py', reloading
+2024-06-11 16:10:40,954 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/function_group.py', reloading
+2024-06-11 16:10:40,954 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/function_group.py', reloading
+2024-06-11 16:10:40,955 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/function_group.py', reloading
+2024-06-11 16:10:40,955 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/properties.py', reloading
+2024-06-11 16:10:40,955 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/properties.py', reloading
+2024-06-11 16:10:40,955 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/properties.py', reloading
+2024-06-11 16:10:40,955 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/protection.py', reloading
+2024-06-11 16:10:40,955 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/protection.py', reloading
+2024-06-11 16:10:40,956 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/protection.py', reloading
+2024-06-11 16:10:40,956 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/smart_tags.py', reloading
+2024-06-11 16:10:40,956 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/smart_tags.py', reloading
+2024-06-11 16:10:40,956 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/smart_tags.py', reloading
+2024-06-11 16:10:40,956 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/views.py', reloading
+2024-06-11 16:10:40,956 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/views.py', reloading
+2024-06-11 16:10:40,956 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/views.py', reloading
+2024-06-11 16:10:40,957 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/web.py', reloading
+2024-06-11 16:10:40,957 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/web.py', reloading
+2024-06-11 16:10:40,957 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/web.py', reloading
+2024-06-11 16:10:40,957 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/workbook.py', reloading
+2024-06-11 16:10:40,957 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/workbook.py', reloading
+2024-06-11 16:10:40,957 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/workbook.py', reloading
+2024-06-11 16:10:40,958 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/external_link/__init__.py', reloading
+2024-06-11 16:10:40,958 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/workbook/external_link/external.py', reloading
+2024-06-11 16:10:40,958 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/__init__.py', reloading
+2024-06-11 16:10:40,958 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/_read_only.py', reloading
+2024-06-11 16:10:40,958 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/_reader.py', reloading
+2024-06-11 16:10:40,958 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/_write_only.py', reloading
+2024-06-11 16:10:40,959 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/_writer.py', reloading
+2024-06-11 16:10:40,959 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/cell_range.py', reloading
+2024-06-11 16:10:40,959 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/_writer.py', reloading
+2024-06-11 16:10:40,959 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/_writer.py', reloading
+2024-06-11 16:10:40,960 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/_writer.py', reloading
+2024-06-11 16:10:40,960 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/cell_range.py', reloading
+2024-06-11 16:10:40,960 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/cell_range.py', reloading
+2024-06-11 16:10:40,960 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/cell_range.py', reloading
+2024-06-11 16:10:40,961 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/cell_watch.py', reloading
+2024-06-11 16:10:40,961 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/cell_watch.py', reloading
+2024-06-11 16:10:40,961 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/cell_watch.py', reloading
+2024-06-11 16:10:40,961 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/controls.py', reloading
+2024-06-11 16:10:40,961 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/controls.py', reloading
+2024-06-11 16:10:40,961 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/controls.py', reloading
+2024-06-11 16:10:40,962 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/copier.py', reloading
+2024-06-11 16:10:40,962 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/copier.py', reloading
+2024-06-11 16:10:40,962 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/copier.py', reloading
+2024-06-11 16:10:40,962 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/custom.py', reloading
+2024-06-11 16:10:40,962 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/custom.py', reloading
+2024-06-11 16:10:40,962 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/custom.py', reloading
+2024-06-11 16:10:40,963 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/datavalidation.py', reloading
+2024-06-11 16:10:40,963 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/datavalidation.py', reloading
+2024-06-11 16:10:40,963 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/datavalidation.py', reloading
+2024-06-11 16:10:40,963 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/dimensions.py', reloading
+2024-06-11 16:10:40,964 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/dimensions.py', reloading
+2024-06-11 16:10:40,964 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/dimensions.py', reloading
+2024-06-11 16:10:40,964 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/drawing.py', reloading
+2024-06-11 16:10:40,964 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/drawing.py', reloading
+2024-06-11 16:10:40,964 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/drawing.py', reloading
+2024-06-11 16:10:40,964 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/errors.py', reloading
+2024-06-11 16:10:40,965 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/errors.py', reloading
+2024-06-11 16:10:40,965 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/errors.py', reloading
+2024-06-11 16:10:40,965 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/filters.py', reloading
+2024-06-11 16:10:40,965 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/filters.py', reloading
+2024-06-11 16:10:40,966 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/filters.py', reloading
+2024-06-11 16:10:40,966 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/formula.py', reloading
+2024-06-11 16:10:40,966 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/formula.py', reloading
+2024-06-11 16:10:40,966 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/formula.py', reloading
+2024-06-11 16:10:40,966 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/header_footer.py', reloading
+2024-06-11 16:10:40,967 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/header_footer.py', reloading
+2024-06-11 16:10:40,967 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/header_footer.py', reloading
+2024-06-11 16:10:40,967 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/hyperlink.py', reloading
+2024-06-11 16:10:40,967 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/hyperlink.py', reloading
+2024-06-11 16:10:40,967 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/hyperlink.py', reloading
+2024-06-11 16:10:40,968 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/merge.py', reloading
+2024-06-11 16:10:40,968 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/merge.py', reloading
+2024-06-11 16:10:40,968 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/merge.py', reloading
+2024-06-11 16:10:40,968 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/ole.py', reloading
+2024-06-11 16:10:40,968 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/ole.py', reloading
+2024-06-11 16:10:40,969 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/ole.py', reloading
+2024-06-11 16:10:40,969 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/page.py', reloading
+2024-06-11 16:10:40,969 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/page.py', reloading
+2024-06-11 16:10:40,969 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/page.py', reloading
+2024-06-11 16:10:40,969 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/pagebreak.py', reloading
+2024-06-11 16:10:40,969 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/pagebreak.py', reloading
+2024-06-11 16:10:40,970 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/pagebreak.py', reloading
+2024-06-11 16:10:40,970 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/picture.py', reloading
+2024-06-11 16:10:40,970 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/picture.py', reloading
+2024-06-11 16:10:40,970 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/picture.py', reloading
+2024-06-11 16:10:40,970 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/print_settings.py', reloading
+2024-06-11 16:10:40,971 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/print_settings.py', reloading
+2024-06-11 16:10:40,971 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/print_settings.py', reloading
+2024-06-11 16:10:40,971 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/properties.py', reloading
+2024-06-11 16:10:40,971 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/properties.py', reloading
+2024-06-11 16:10:40,971 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/properties.py', reloading
+2024-06-11 16:10:40,971 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/protection.py', reloading
+2024-06-11 16:10:40,972 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/protection.py', reloading
+2024-06-11 16:10:40,972 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/protection.py', reloading
+2024-06-11 16:10:40,972 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/related.py', reloading
+2024-06-11 16:10:40,972 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/related.py', reloading
+2024-06-11 16:10:40,972 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/related.py', reloading
+2024-06-11 16:10:40,972 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/scenario.py', reloading
+2024-06-11 16:10:40,972 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/scenario.py', reloading
+2024-06-11 16:10:40,973 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/scenario.py', reloading
+2024-06-11 16:10:40,973 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/smart_tag.py', reloading
+2024-06-11 16:10:40,973 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/smart_tag.py', reloading
+2024-06-11 16:10:40,973 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/smart_tag.py', reloading
+2024-06-11 16:10:40,973 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/table.py', reloading
+2024-06-11 16:10:40,973 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/table.py', reloading
+2024-06-11 16:10:40,973 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/table.py', reloading
+2024-06-11 16:10:40,974 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/views.py', reloading
+2024-06-11 16:10:40,974 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/views.py', reloading
+2024-06-11 16:10:40,974 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/views.py', reloading
+2024-06-11 16:10:40,974 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/worksheet.py', reloading
+2024-06-11 16:10:40,974 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/worksheet.py', reloading
+2024-06-11 16:10:40,975 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/worksheet/worksheet.py', reloading
+2024-06-11 16:10:40,975 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/writer/__init__.py', reloading
+2024-06-11 16:10:40,975 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/writer/excel.py', reloading
+2024-06-11 16:10:40,975 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/writer/theme.py', reloading
+2024-06-11 16:10:40,975 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/writer/excel.py', reloading
+2024-06-11 16:10:40,975 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/writer/excel.py', reloading
+2024-06-11 16:10:40,976 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/writer/theme.py', reloading
+2024-06-11 16:10:40,976 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/writer/theme.py', reloading
+2024-06-11 16:10:40,976 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/writer/theme.py', reloading
+2024-06-11 16:10:40,976 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/xml/__init__.py', reloading
+2024-06-11 16:10:40,976 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/xml/constants.py', reloading
+2024-06-11 16:10:40,977 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/xml/functions.py', reloading
+2024-06-11 16:10:40,977 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/xml/functions.py', reloading
+2024-06-11 16:10:40,977 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/xml/functions.py', reloading
+2024-06-11 16:10:40,977 - INFO -  * Detected change in '/home/PedroSci/anaconda3/envs/eCommerce/lib/python3.9/site-packages/openpyxl/xml/functions.py', reloading
+2024-06-11 16:10:41,845 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:10:42,345 - WARNING -  * Debugger is active!
+2024-06-11 16:10:42,345 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:30:46,357 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:30:46,363 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:30:46,512 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:30:46,513 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:30:46,652 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:30:47,159 - WARNING -  * Debugger is active!
+2024-06-11 16:30:47,159 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:31:08,642 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:31:08,648 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:31:08,836 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:31:09,331 - WARNING -  * Debugger is active!
+2024-06-11 16:31:09,331 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:31:47,937 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:31:47,942 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:31:48,087 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:31:48,587 - WARNING -  * Debugger is active!
+2024-06-11 16:31:48,588 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:32:04,609 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:32:04,615 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:32:04,755 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:32:04,756 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:32:05,248 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:32:05,748 - WARNING -  * Debugger is active!
+2024-06-11 16:32:05,748 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:32:43,484 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:32:43,490 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:32:44,503 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:32:45,006 - WARNING -  * Debugger is active!
+2024-06-11 16:32:45,006 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:33:20,012 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:20,018 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:20,142 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:20,143 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:20,748 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:33:21,251 - WARNING -  * Debugger is active!
+2024-06-11 16:33:21,251 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:33:36,481 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:36,487 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:36,675 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:36,675 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:36,676 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:36,949 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:33:37,445 - WARNING -  * Debugger is active!
+2024-06-11 16:33:37,446 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:33:49,100 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:49,101 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:33:50,080 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:33:50,573 - WARNING -  * Debugger is active!
+2024-06-11 16:33:50,573 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:34:21,556 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:34:21,562 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:34:22,292 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:34:22,794 - WARNING -  * Debugger is active!
+2024-06-11 16:34:22,794 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:34:35,273 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:34:35,279 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:34:35,478 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:34:35,972 - WARNING -  * Debugger is active!
+2024-06-11 16:34:35,973 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:38:19,024 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:38:19,025 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:38:19,646 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:38:20,147 - WARNING -  * Debugger is active!
+2024-06-11 16:38:20,147 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:38:41,941 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:38:41,948 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:38:42,879 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:38:43,386 - WARNING -  * Debugger is active!
+2024-06-11 16:38:43,387 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:47:39,828 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:47:39,834 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:47:39,996 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:47:39,998 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:47:40,177 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:47:40,178 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:47:40,454 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:47:40,958 - WARNING -  * Debugger is active!
+2024-06-11 16:47:40,958 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:49:49,054 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:49:49,059 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:49:49,225 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:49:49,226 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:49:50,069 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:49:50,571 - WARNING -  * Debugger is active!
+2024-06-11 16:49:50,572 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:50:05,762 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:50:05,768 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:50:05,930 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:50:05,932 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:50:06,160 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:50:06,662 - WARNING -  * Debugger is active!
+2024-06-11 16:50:06,663 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:50:10,070 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 16:50:10,071 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/rentabilidad.py', reloading
+2024-06-11 16:50:10,200 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:50:10,705 - WARNING -  * Debugger is active!
+2024-06-11 16:50:10,705 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 16:50:11,929 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:50:11,934 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp3/t4.py', reloading
+2024-06-11 16:50:12,196 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 16:50:12,688 - WARNING -  * Debugger is active!
+2024-06-11 16:50:12,688 - INFO -  * Debugger PIN: 130-576-905

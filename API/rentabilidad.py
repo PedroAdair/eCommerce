@@ -11,14 +11,8 @@ import numpy as np
 
 
 
-# with open('DB_examples/primerinputProductos.json', 'r') as f:
 
-#     products =  json.loads(f.read())
 
-# with open('DB_examples/primerinputPagos.json', 'r') as f:
-#     payments =  json.loads(f.read())
-
-# print(products) /home/PedroSci/eCommerce/DB_examples/rentabilidad_input.json
 def extraerInformacion(rentabilidad:dict):
     """ payments, productos """
     payments =  {k: rentabilidad[k] for k in ('tipoCambio', 'globales') if k in rentabilidad}

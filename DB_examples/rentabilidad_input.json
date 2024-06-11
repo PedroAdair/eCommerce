@@ -26,7 +26,7 @@
             "datosPedimiento":{
                 "importeMNAduana": 355725.3,
                 "flete": 38647.7,
-                "unidades": 30000
+                "unidades": 300
             },
             "A1":{
                 "costoUnitarioUSD":0.7
