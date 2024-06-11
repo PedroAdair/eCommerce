@@ -1,0 +1,163 @@
+{
+    "tipoCambio":{
+        "historial": [
+            {"nombre": "Primer Pago",
+                "concepto": "Mercancia",
+                "tipoCambio":16.94,
+                "dolares":   26804.74,
+                "monedaNacional":454072.30 }
+                    ],
+        "globales": {
+                "porcentajeIVA":16,
+                "MN":150000.00,    
+                "flete":120000,
+                "seguro": 382059,
+                "cuentaAduanera":12500,   
+                "certificaciones":0,
+                "prevalidacion":336
+                    }
+    },"productos":[
+        {
+            "informacionGeneral":{
+                "claveProducto": "General medical cown",
+                "descripcionProducto":"Bata  Quirúrgica desechable",
+                "piezas":"Piezas"
+            },
+            "datosPedimiento":{
+                "importeMNAduana": 355725.3,
+                "flete": 38647.7,
+                "unidades": 30000
+            },
+            "A1":{
+                "costoUnitarioUSD":0.7
+            },
+            "A2":{
+            },
+            "A3":{
+            },
+            "A4":{
+            },
+            "A5":{
+            },
+            "A6":{
+            },
+            "A7":{
+                "valor_prevalidacion": 1,
+                "porcentajeDTA":8
+            },
+            "A8":{
+                "porcentajeIGI": 20
+            },
+            "A9": {
+            },
+            "costoTotal":{
+    
+            },
+            "B2":{
+                "precioVentaPropuesto": 35
+            },
+            "propuestaPropia":{
+                "precioVentaPropuesto": 48
+            },
+            "propuestaSuperior":{
+                "precioVentaPropuesto":64
+            }
+        },
+        {
+            "informacionGeneral":{
+                "claveProducto": "General medical cown",
+                "descripcionProducto":"Juego de Cesárea (Jeringa de oído desechable c/equipo p/cirugía de cesárea)",
+                "piezas":"Piezas"
+            },
+            "datosPedimiento":{
+                "importeMNAduana": 177862.65,
+                "flete":19324.35,
+                "unidades": 15000
+            },
+            "A1":{
+                "costoUnitarioUSD":0.7
+            },
+            "A2":{
+    
+            },
+            "A3":{
+            },
+            "A4":{
+            },
+            "A5":{
+            },
+            "A6":{
+            },
+            "A7":{
+                "valor_prevalidacion": 1,
+                "porcentajeDTA":8
+            },
+            "A8":{
+                "porcentajeIGI": 20
+            },
+            "A9": {
+            },
+            "costoTotal":{
+                
+            },
+            "B2":{
+                "precioVentaPropuesto": 34
+            },
+            "propuestaPropia":{
+                "precioVentaPropuesto": 48
+            },
+            "propuestaSuperior":{
+                "precioVentaPropuesto":64
+            }
+        },
+        {
+            "informacionGeneral":{
+                "claveProducto": "General medical cown",
+                "descripcionProducto":"Uniforme Quirurgico desechable",
+                "piezas":"Piezas"
+            },
+            "datosPedimiento":{
+                "importeMNAduana": 113493.31,
+                "flete": 12329.69,
+                "unidades": 10000
+            },
+            "A1":{
+                "costoUnitarioUSD":0.4
+            },
+            "A2":{
+                
+            },
+            "A3":{
+            },
+            "A4":{
+            },
+            "A5":{
+            },
+            "A6":{
+            },
+            "A7":{
+                "valor_prevalidacion": 1,
+                "porcentajeDTA":8
+            },
+            "A8":{
+                "porcentajeIGI": 20
+            },
+            "A9": {
+            },
+            "costoTotal":{
+                
+            },
+            "B2":{
+                "precioVentaPropuesto": 34
+            },
+            "propuestaPropia":{
+                "precioVentaPropuesto": 48
+            },
+            "propuestaSuperior":{
+                "precioVentaPropuesto":64
+            }
+        }
+    ],
+    "totales": {
+    }
+}

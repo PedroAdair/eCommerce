@@ -696,3 +696,75 @@
 2024-05-31 15:38:51,161 - INFO -  * Debugger PIN: 143-502-098
 2024-05-31 15:38:58,415 - INFO - 192.168.100.2 - - [31/May/2024 15:38:58] "POST /KPI HTTP/1.1" 200 -
 2024-05-31 15:54:56,032 - INFO - 192.168.100.2 - - [31/May/2024 15:54:56] "POST /KPI HTTP/1.1" 200 -
+2024-06-11 10:22:36,752 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-11 10:22:36,752 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-11 10:22:36,755 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:22:37,249 - WARNING -  * Debugger is active!
+2024-06-11 10:22:37,250 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:24:56,286 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:24:56,292 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:24:56,470 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:24:56,472 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:24:57,359 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:25:36,465 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-11 10:25:36,465 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-11 10:25:36,468 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:25:36,956 - WARNING -  * Debugger is active!
+2024-06-11 10:25:36,957 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:27:58,235 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-11 10:27:58,235 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-11 10:27:58,238 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:27:58,720 - WARNING -  * Debugger is active!
+2024-06-11 10:27:58,721 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:30:12,380 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-11 10:30:12,380 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-11 10:30:12,383 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:30:12,879 - WARNING -  * Debugger is active!
+2024-06-11 10:30:12,880 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:30:37,629 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-11 10:30:37,630 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-11 10:30:37,633 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:30:38,135 - WARNING -  * Debugger is active!
+2024-06-11 10:30:38,135 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:32:01,569 - INFO - 192.168.100.3 - - [11/Jun/2024 10:32:01] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:32:04,037 - INFO - 192.168.100.3 - - [11/Jun/2024 10:32:04] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:32:33,194 - INFO - 192.168.100.3 - - [11/Jun/2024 10:32:33] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:32:41,826 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:32:41,831 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:32:41,993 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:32:41,994 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:32:42,116 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:32:42,631 - WARNING -  * Debugger is active!
+2024-06-11 10:32:42,631 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:32:44,655 - INFO - 192.168.100.3 - - [11/Jun/2024 10:32:44] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:32:56,507 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:32:56,512 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:32:57,224 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:32:57,728 - WARNING -  * Debugger is active!
+2024-06-11 10:32:57,728 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:32:59,290 - INFO - 192.168.100.3 - - [11/Jun/2024 10:32:59] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:34:00,949 - INFO - 192.168.100.3 - - [11/Jun/2024 10:34:00] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-11 10:47:57,538 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:47:57,543 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:47:58,282 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:47:58,777 - WARNING -  * Debugger is active!
+2024-06-11 10:47:58,778 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:47:59,591 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp2/func2.py', reloading
+2024-06-11 10:47:59,597 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp2/func2.py', reloading
+2024-06-11 10:47:59,751 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp2/func2.py', reloading
+2024-06-11 10:47:59,752 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/Rentabilidad/Exp2/func2.py', reloading
+2024-06-11 10:48:00,189 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:48:00,690 - WARNING -  * Debugger is active!
+2024-06-11 10:48:00,690 - INFO -  * Debugger PIN: 130-576-905
+2024-06-11 10:48:01,776 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:48:01,782 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:48:01,970 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:48:01,972 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-11 10:48:02,159 - INFO -  * Restarting with watchdog (inotify)
+2024-06-11 10:48:02,658 - WARNING -  * Debugger is active!
+2024-06-11 10:48:02,658 - INFO -  * Debugger PIN: 130-576-905

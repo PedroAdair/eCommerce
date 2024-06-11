@@ -2,6 +2,7 @@ from flask import Flask, jsonify , request
 from flask_cors import CORS
 import yaml 
 from recepcionProductos import *
+from rentabilidad import * 
 
 with open('config.yaml', "r") as f:
     config = yaml.safe_load(f)
@@ -10,10 +11,16 @@ app = Flask(__name__)
 CORS(app)
 
 @app.route('/KPI', methods=['POST'])
-
 def FirstPost():
     data = request.get_json()
     result = eval(data['function'])(*data['parameters'].values())
+    print(result)
+    return jsonify(result),200
+
+@app.route('/rentabilidad', methods=['POST'])
+def getrentabilidad():
+    data = request.get_json()
+    result = pipelineCompleto(rentabilidad=data)
     print(result)
     return jsonify(result),200
 

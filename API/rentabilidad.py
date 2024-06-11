@@ -406,18 +406,3 @@ def pipelineCompleto(rentabilidad:dict):
     products = ActualizarPrecios(payments=payments ,products=products)
 
     return products
-
-# with open('products_complete.json', 'w') as archivo_json:
-#     json.dump(products, archivo_json, indent=4)
-
-# print("Ejemplo de un producto")
-# print(products['productos'][0]) 
-# print("**"*100)
-# print("totales")
-# print(len(list(products['totales'].keys()))) 
-# print(products['totales'])    
-
-
-# print("**"*100)
-# print("Pagos")
-# print(payments['tipoCambio']['globales'])

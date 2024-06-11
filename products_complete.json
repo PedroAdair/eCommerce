@@ -1,0 +1,274 @@
+{
+    "productos": [
+        {
+            "informacionGeneral": {
+                "claveProducto": "General medical cown",
+                "descripcionProducto": "Bata  Quir\u00fargica desechable",
+                "piezas": "Piezas"
+            },
+            "datosPedimiento": {
+                "importeMNAduana": 355725.3,
+                "flete": 38647.7,
+                "unidades": 30000,
+                "total": 394373.0,
+                "costoUnitario": 13.15
+            },
+            "A1": {
+                "costoUnitarioUSD": 0.7,
+                "importeUSD": 21000.0,
+                "importeMN": 355740.0,
+                "costoUnitarioMN": 11.86
+            },
+            "A2": {
+                "despachoAduanalMN": 81818.18,
+                "despachoAduanalMNUnit": 2.73
+            },
+            "A3": {
+                "fleteMarinoTerrestre": 65454.55,
+                "fleteUnit": 2.18
+            },
+            "A4": {
+                "seguro": 208410.0,
+                "seguroUnit": 6.947
+            },
+            "A5": {
+                "otrosCuentaAduanera": 6810.0,
+                "otrosUnit": 0.227
+            },
+            "A6": {
+                "certificaciones": 0.0,
+                "certificacionesUnit": 0.0
+            },
+            "A7": {
+                "valor_prevalidacion": 1,
+                "porcentajeDTA": 8,
+                "prevalidacion": 336,
+                "prevalidacionUnit": 0.01,
+                "DTA": 1.052,
+                "importeDTA": 31560.0
+            },
+            "A8": {
+                "porcentajeIGI": 20,
+                "IGI": 2.63,
+                "importeIGI": 78900.0
+            },
+            "A9": {
+                "IVA": 2.693,
+                "importeIVA": 80790.0
+            },
+            "costoTotal": {
+                "subtotal": 23.94,
+                "CostoFinal": 30.33,
+                "sCostoMecia": 39.1,
+                "importe": 909818.73
+            },
+            "B2": {
+                "precioVentaPropuesto": 35,
+                "porcentajeGanancia": 10.62,
+                "porcentajeIVA": 16,
+                "IVA": 5.6,
+                "precioFinalIVA": 16.22
+            },
+            "propuestaPropia": {
+                "precioVentaPropuesto": 48,
+                "porcentajeGanancia": 14.56,
+                "porcentajeIVA": 16,
+                "IVA": 7.68,
+                "precioFinalIVA": 22.24
+            },
+            "propuestaSuperior": {
+                "precioVentaPropuesto": 64,
+                "porcentajeGanancia": 19.41,
+                "porcentajeIVA": 16,
+                "IVA": 10.24,
+                "precioFinalIVA": 29.65
+            }
+        },
+        {
+            "informacionGeneral": {
+                "claveProducto": "General medical cown",
+                "descripcionProducto": "Juego de Ces\u00e1rea (Jeringa de o\u00eddo desechable c/equipo p/cirug\u00eda de ces\u00e1rea)",
+                "piezas": "Piezas"
+            },
+            "datosPedimiento": {
+                "importeMNAduana": 177862.65,
+                "flete": 19324.35,
+                "unidades": 15000,
+                "total": 197187.0,
+                "costoUnitario": 13.15
+            },
+            "A1": {
+                "costoUnitarioUSD": 0.7,
+                "importeUSD": 10500.0,
+                "importeMN": 177870.0,
+                "costoUnitarioMN": 11.86
+            },
+            "A2": {
+                "despachoAduanalMN": 40909.09,
+                "despachoAduanalMNUnit": 2.73
+            },
+            "A3": {
+                "fleteMarinoTerrestre": 32727.27,
+                "fleteUnit": 2.18
+            },
+            "A4": {
+                "seguro": 104205.0,
+                "seguroUnit": 6.947
+            },
+            "A5": {
+                "otrosCuentaAduanera": 3405.0,
+                "otrosUnit": 0.227
+            },
+            "A6": {
+                "certificaciones": 0.0,
+                "certificacionesUnit": 0.0
+            },
+            "A7": {
+                "valor_prevalidacion": 1,
+                "porcentajeDTA": 8,
+                "prevalidacion": 336,
+                "prevalidacionUnit": 0.02,
+                "DTA": 1.052,
+                "importeDTA": 15780.0
+            },
+            "A8": {
+                "porcentajeIGI": 20,
+                "IGI": 2.63,
+                "importeIGI": 39450.0
+            },
+            "A9": {
+                "IVA": 2.693,
+                "importeIVA": 40395.0
+            },
+            "costoTotal": {
+                "subtotal": 23.94,
+                "CostoFinal": 30.34,
+                "sCostoMecia": 39.09,
+                "importe": 455077.36
+            },
+            "B2": {
+                "precioVentaPropuesto": 34,
+                "porcentajeGanancia": 10.32,
+                "porcentajeIVA": 16,
+                "IVA": 5.44,
+                "precioFinalIVA": 15.76
+            },
+            "propuestaPropia": {
+                "precioVentaPropuesto": 48,
+                "porcentajeGanancia": 14.56,
+                "porcentajeIVA": 16,
+                "IVA": 7.68,
+                "precioFinalIVA": 22.24
+            },
+            "propuestaSuperior": {
+                "precioVentaPropuesto": 64,
+                "porcentajeGanancia": 19.42,
+                "porcentajeIVA": 16,
+                "IVA": 10.24,
+                "precioFinalIVA": 29.66
+            }
+        },
+        {
+            "informacionGeneral": {
+                "claveProducto": "General medical cown",
+                "descripcionProducto": "Uniforme Quirurgico desechable",
+                "piezas": "Piezas"
+            },
+            "datosPedimiento": {
+                "importeMNAduana": 113493.31,
+                "flete": 12329.69,
+                "unidades": 10000,
+                "total": 125823.0,
+                "costoUnitario": 12.58
+            },
+            "A1": {
+                "costoUnitarioUSD": 0.4,
+                "importeUSD": 4000.0,
+                "importeMN": 67760.0,
+                "costoUnitarioMN": 6.78
+            },
+            "A2": {
+                "despachoAduanalMN": 27272.73,
+                "despachoAduanalMNUnit": 2.73
+            },
+            "A3": {
+                "fleteMarinoTerrestre": 21818.18,
+                "fleteUnit": 2.18
+            },
+            "A4": {
+                "seguro": 69470.0,
+                "seguroUnit": 6.947
+            },
+            "A5": {
+                "otrosCuentaAduanera": 2270.0,
+                "otrosUnit": 0.227
+            },
+            "A6": {
+                "certificaciones": 0.0,
+                "certificacionesUnit": 0.0
+            },
+            "A7": {
+                "valor_prevalidacion": 1,
+                "porcentajeDTA": 8,
+                "prevalidacion": 336,
+                "prevalidacionUnit": 0.03,
+                "DTA": 1.006,
+                "importeDTA": 10060.0
+            },
+            "A8": {
+                "porcentajeIGI": 20,
+                "IGI": 2.516,
+                "importeIGI": 25160.0
+            },
+            "A9": {
+                "IVA": 2.576,
+                "importeIVA": 25760.0
+            },
+            "costoTotal": {
+                "subtotal": 18.86,
+                "CostoFinal": 24.99,
+                "sCostoMecia": 27.13,
+                "importe": 249906.91
+            },
+            "B2": {
+                "precioVentaPropuesto": 34,
+                "porcentajeGanancia": 8.5,
+                "porcentajeIVA": 16,
+                "IVA": 5.44,
+                "precioFinalIVA": 13.94
+            },
+            "propuestaPropia": {
+                "precioVentaPropuesto": 48,
+                "porcentajeGanancia": 12.0,
+                "porcentajeIVA": 16,
+                "IVA": 7.68,
+                "precioFinalIVA": 19.68
+            },
+            "propuestaSuperior": {
+                "precioVentaPropuesto": 64,
+                "porcentajeGanancia": 15.99,
+                "porcentajeIVA": 16,
+                "IVA": 10.24,
+                "precioFinalIVA": 26.23
+            }
+        }
+    ],
+    "totales": {
+        "importeMNAduana": 647081.26,
+        "flete": 70301.74,
+        "unidades": 55000,
+        "total": 717383.0,
+        "importeUSD": 35500.0,
+        "importeMN": 601370.0,
+        "despachoAduanalMN": 150000.0,
+        "fleteMarinoTerrestre": 120000.0,
+        "seguro": 382085.0,
+        "cuentaAduanera": 12485.0,
+        "certificaciones": 0.0,
+        "prevalidacion": 1008,
+        "importeDTA": 57400.0,
+        "importeIGI": 143510.0,
+        "importeIVA": 146945.0,
+        "importe": 1614803.0
+    }
+}
