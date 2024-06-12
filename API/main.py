@@ -3,7 +3,7 @@ from flask_cors import CORS
 import yaml 
 from recepcionProductos import *
 from rentabilidad import * 
-
+from KPIRentabilidad import *
 with open('config.yaml', "r") as f:
     config = yaml.safe_load(f)
 
