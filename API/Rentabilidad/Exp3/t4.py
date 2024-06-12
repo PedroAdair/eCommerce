@@ -12,7 +12,7 @@ import json
 
 # from rentabilidad import * 
 
-
+from func2 import *
 connection_url_SanManuel = os.getenv('connection_url_SanManuel')
 ecommerce_main = os.getenv('ecommerce_main')
 eCommerce_rentabilidad_output = [connection_url_SanManuel, ecommerce_main, 'rentabilidad_output']
@@ -23,13 +23,12 @@ eCommerce_rentabilidad_input = [connection_url_SanManuel, ecommerce_main, 'renta
 from faker import Faker
 fake = Faker()
 
-#####################################################################################################################
+#datos originales
 with open('API/Rentabilidad/Exp3/opciones_productos.json', 'r') as archivo_json:
     opciones_productos = json.load(archivo_json)
 
-print("opciones productos")
-print(len(opciones_productos))
-print( random.choice(opciones_productos))
+start = datetime.datetime(2024,1,1)
+end =  datetime.datetime(2024,6,10)
 
 
 def coneccionDB(mongo_uri:str,database_name:str,collection_name:str):
@@ -44,24 +43,74 @@ def coneccionDB(mongo_uri:str,database_name:str,collection_name:str):
         print(e)
     return collection
 
-rentabilidad_input_collection = coneccionDB(*eCommerce_rentabilidad_input)
 
 
-# def crearFalsosRegistros():
-#     start = datetime.datetime(2024,1,1)
-#     end = datetime.datetime(2024,6,10)
-#     delta = end - start
-#     int_delta = delta.days
-#     random_date = random.randrange(int_delta)
 
-#     return start + datetime.timedelta(days=random_date)
+def fecha_aleatoria(inicio, fin):
+    delta = fin - inicio
+    dias_aleatorios = random.randint(0, delta.days)
+    return inicio + datetime.timedelta(days=dias_aleatorios)
+# print(new_reg['productos'][0].keys())
 
-# for i in range(5):
-#     print(crearFalsosRegistros())
+
+
+def registroProducto(product:dict):
+    unidades         = random.randint(100, 40000)
+    importeMNAduana  = unidades*random.uniform(10,12)
+    flete            = unidades*random.uniform(1.5,2.7)
+
+    estructura= {
+            "informacionGeneral":{
+                "claveProducto": product["Clave del Producto y/o Servicio"],
+                "descripcionProducto":product["Descripción Producto según Pedimento"],
+                "piezas":product["Piezas"]
+            },
+            "datosPedimiento":{
+                "importeMNAduana": importeMNAduana,
+                "flete": flete,
+                "unidades": unidades
+            },
+            "A1":{
+                "costoUnitarioUSD": product['Costo Unit.  USD (Mcía.)']
+            },
+            "A2":{
+            },
+            "A3":{
+            },
+            "A4":{
+            },
+            "A5":{
+            },
+            "A6":{
+            },
+            "A7":{
+                "valor_prevalidacion": 1,
+                "porcentajeDTA":8
+            },
+            "A8":{
+                "porcentajeIGI": random.choice([10,20,25])
+            },
+            "A9": {
+            },
+            "costoTotal":{
+    
+            },
+            "B2":{
+                "precioVentaPropuesto": product['Costo Unit.  USD (Mcía.)']*17*2
+            },
+            "propuestaPropia":{
+                "precioVentaPropuesto": product['Costo Unit.  USD (Mcía.)']*17*2.7
+            },
+            "propuestaSuperior":{
+                "precioVentaPropuesto":product['Costo Unit.  USD (Mcía.)']*17*3
+            }
+        }
+    return estructura
 
 def creafFalsoRegistro():
-    registro = {}
-    registro["tipoCambio"]= {"historial": [
+    rentabilidad_output_collection = coneccionDB(*eCommerce_rentabilidad_output)
+    result = {}
+    result["tipoCambio"]= {"historial": [
                                             {"nombre": "Primer Pago",
                                                 "concepto": "Mercancia",
                                                 "tipoCambio": random.uniform(15, 19),
@@ -78,14 +127,29 @@ def creafFalsoRegistro():
                                  "prevalidacion":random.randint(10000, 150000)
                              }
                              }
-
+    res1 = result.copy()
 
     number_items =  random.randint(1,len(opciones_productos))
+    print(f"Se realizara una simulacion de {number_items} producto/s")
+    producrtos_aleatorios = random.sample(opciones_productos, number_items)
+    products_list = []
+    for product in producrtos_aleatorios:
+        products_list.append(registroProducto(product=product))
 
-    return registro
+    result["productos"] = products_list
+    result['totales']= {}
+    result = pipelineCompleto(rentabilidad=result)
+    # result.update(res1)
+    result['fechaRegistro'] = fecha_aleatoria(inicio=start, fin=end)
+
+
+    #
+    total_registros = rentabilidad_output_collection.count_documents({})
+    print(f"Hay un total de {total_registros} registros")
+    result['id']= total_registros +1
+    rentabilidad_output_collection.insert_one(result)
+    return result
 
 print("**"*50)
-registro = rentabilidad_input_collection.find_one()
-new_reg =  creafFalsoRegistro(registro=registro)
-# print(new_reg['productos']['informacionGeneral'])
-
+for i in range(10):
+    creafFalsoRegistro()

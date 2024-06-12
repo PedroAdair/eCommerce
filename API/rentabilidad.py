@@ -363,9 +363,9 @@ def ActualizarPrecios(payments:dict, products:dict):
 #############################################################################################################################################################################
 # Proceso
 #############################################################################################################################################################################
-print("*"*150)
-with open('/home/PedroSci/eCommerce/DB_examples/rentabilidad_input.json', 'r') as f:
-    rentabilidad =  json.loads(f.read())
+# print("*"*150)
+# with open('/home/PedroSci/eCommerce/DB_examples/rentabilidad_input.json', 'r') as f:
+#     rentabilidad =  json.loads(f.read())
 
 # print(products) 
 def pipelineCompleto(rentabilidad:dict):
@@ -398,5 +398,6 @@ def pipelineCompleto(rentabilidad:dict):
     products = obtenerCostoTotal(payments=payments ,products=products)
     #paso 13 actualizar con los precios
     products = ActualizarPrecios(payments=payments ,products=products)
-
+    #paso 14 
+    products.update(payments)
     return products
