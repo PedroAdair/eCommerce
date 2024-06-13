@@ -2289,3 +2289,241 @@
 2024-06-12 16:33:40,818 - INFO -  * Restarting with watchdog (inotify)
 2024-06-12 16:33:41,317 - WARNING -  * Debugger is active!
 2024-06-12 16:33:41,318 - INFO -  * Debugger PIN: 834-351-325
+2024-06-13 14:05:23,242 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-13 14:05:23,242 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-13 14:05:23,245 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 14:05:23,729 - WARNING -  * Debugger is active!
+2024-06-13 14:05:23,729 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 14:05:26,530 - INFO - 192.168.100.3 - - [13/Jun/2024 14:05:26] "POST /KPI HTTP/1.1" 200 -
+2024-06-13 14:20:15,680 - INFO - 192.168.100.3 - - [13/Jun/2024 14:20:15] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-13 14:20:37,182 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:20:37,183 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:20:37,277 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:20:37,277 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:20:37,279 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:20:37,742 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:20:37,742 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:20:37,748 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:20:37,854 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 14:20:38,369 - WARNING -  * Debugger is active!
+2024-06-13 14:20:38,369 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 14:20:42,752 - INFO - 192.168.100.3 - - [13/Jun/2024 14:20:42] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-13 14:20:49,374 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:20:49,380 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:20:49,574 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:20:49,575 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:20:49,756 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:20:49,756 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:20:49,758 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:20:49,997 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 14:20:50,501 - WARNING -  * Debugger is active!
+2024-06-13 14:20:50,501 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 14:20:53,685 - INFO - 192.168.100.3 - - [13/Jun/2024 14:20:53] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-13 14:20:55,309 - INFO - 192.168.100.3 - - [13/Jun/2024 14:20:55] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-13 14:21:01,823 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:21:01,825 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:21:02,101 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 14:21:02,613 - WARNING -  * Debugger is active!
+2024-06-13 14:21:02,614 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 14:21:04,711 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:21:04,716 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:21:05,049 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 14:21:05,556 - WARNING -  * Debugger is active!
+2024-06-13 14:21:05,556 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 14:21:06,530 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:21:06,536 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPILicitaciones.py', reloading
+2024-06-13 14:21:07,024 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 14:21:07,530 - WARNING -  * Debugger is active!
+2024-06-13 14:21:07,531 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 14:21:14,431 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:21:14,436 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:21:14,637 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:21:14,639 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:21:14,807 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:21:14,808 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:21:14,925 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:21:14,927 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 14:21:15,035 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 14:21:15,540 - WARNING -  * Debugger is active!
+2024-06-13 14:21:15,540 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 14:21:16,596 - INFO - 192.168.100.3 - - [13/Jun/2024 14:21:16] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-13 14:21:33,501 - INFO - 192.168.100.3 - - [13/Jun/2024 14:21:33] "POST /KPI HTTP/1.1" 200 -
+2024-06-13 14:46:51,839 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 14:46:51,845 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 14:46:52,420 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 14:46:52,933 - WARNING -  * Debugger is active!
+2024-06-13 14:46:52,933 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:23:09,706 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:09,712 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:09,958 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:23:10,471 - WARNING -  * Debugger is active!
+2024-06-13 15:23:10,471 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:23:51,611 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:51,611 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:51,617 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:51,799 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:51,800 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:51,988 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:51,990 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:23:52,265 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:23:52,775 - WARNING -  * Debugger is active!
+2024-06-13 15:23:52,776 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:25:44,011 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,017 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,195 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,196 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,340 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,342 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,568 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,568 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,778 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,781 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:44,927 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:25:45,447 - WARNING -  * Debugger is active!
+2024-06-13 15:25:45,447 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:25:54,928 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:54,934 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:25:55,107 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:25:55,617 - WARNING -  * Debugger is active!
+2024-06-13 15:25:55,617 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:27:39,340 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:27:39,344 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:27:39,523 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:27:39,524 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:27:39,730 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:27:40,240 - WARNING -  * Debugger is active!
+2024-06-13 15:27:40,241 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:28:14,569 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:14,575 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:14,778 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:14,779 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:14,980 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:28:15,483 - WARNING -  * Debugger is active!
+2024-06-13 15:28:15,484 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:28:18,312 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:18,317 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:18,459 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:18,461 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:18,910 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:28:19,413 - WARNING -  * Debugger is active!
+2024-06-13 15:28:19,414 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:28:35,304 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:35,309 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:35,455 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:35,456 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:35,643 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:35,644 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:36,061 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:28:36,572 - WARNING -  * Debugger is active!
+2024-06-13 15:28:36,573 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:28:37,013 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:28:37,133 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:28:37,640 - WARNING -  * Debugger is active!
+2024-06-13 15:28:37,640 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:29:38,625 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:29:38,631 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:29:38,791 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:29:38,794 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:29:39,447 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:29:39,952 - WARNING -  * Debugger is active!
+2024-06-13 15:29:39,953 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:30:55,360 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:30:55,365 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:30:55,571 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:30:55,571 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:30:55,901 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:30:56,406 - WARNING -  * Debugger is active!
+2024-06-13 15:30:56,407 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:31:03,554 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:31:03,560 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:31:03,755 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:31:03,756 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:31:03,996 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:31:04,501 - WARNING -  * Debugger is active!
+2024-06-13 15:31:04,501 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:31:18,624 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:31:18,625 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:31:18,761 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:31:18,763 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:31:19,159 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:31:19,669 - WARNING -  * Debugger is active!
+2024-06-13 15:31:19,670 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:33:33,395 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:33,401 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:33,588 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:33,590 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:33,742 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:33:34,251 - WARNING -  * Debugger is active!
+2024-06-13 15:33:34,252 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:33:47,301 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:47,307 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:47,937 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:33:48,447 - WARNING -  * Debugger is active!
+2024-06-13 15:33:48,447 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:33:58,109 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:58,115 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:58,276 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:58,278 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:33:59,069 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:33:59,577 - WARNING -  * Debugger is active!
+2024-06-13 15:33:59,577 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:36:09,972 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:09,973 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:10,152 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:10,154 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:10,761 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:36:11,270 - WARNING -  * Debugger is active!
+2024-06-13 15:36:11,270 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:36:51,829 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:51,933 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:36:52,440 - WARNING -  * Debugger is active!
+2024-06-13 15:36:52,440 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:36:56,521 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:56,542 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:56,659 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:56,661 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:36:57,010 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:36:57,525 - WARNING -  * Debugger is active!
+2024-06-13 15:36:57,526 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:50:45,808 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:50:45,814 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:50:45,941 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:50:46,455 - WARNING -  * Debugger is active!
+2024-06-13 15:50:46,455 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:50:51,565 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:50:51,565 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:50:51,752 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:50:51,753 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:50:51,903 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:50:51,905 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:50:52,021 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:50:52,528 - WARNING -  * Debugger is active!
+2024-06-13 15:50:52,529 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:55:06,110 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:55:06,116 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:55:06,323 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:55:06,830 - WARNING -  * Debugger is active!
+2024-06-13 15:55:06,830 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:58:38,789 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:58:38,791 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:58:38,926 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:58:38,927 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-13 15:58:39,452 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:58:39,959 - WARNING -  * Debugger is active!
+2024-06-13 15:58:39,960 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:58:56,608 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 15:58:56,608 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 15:58:56,856 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 15:58:56,858 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 15:58:57,451 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:58:57,966 - WARNING -  * Debugger is active!
+2024-06-13 15:58:57,967 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:58:59,250 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 15:58:59,256 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 15:58:59,418 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 15:58:59,419 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-13 15:58:59,584 - INFO -  * Restarting with watchdog (inotify)
+2024-06-13 15:59:00,092 - WARNING -  * Debugger is active!
+2024-06-13 15:59:00,092 - INFO -  * Debugger PIN: 927-384-633
+2024-06-13 15:59:15,091 - INFO - 192.168.100.3 - - [13/Jun/2024 15:59:15] "POST /KPI HTTP/1.1" 200 -

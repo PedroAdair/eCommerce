@@ -4,6 +4,8 @@ import yaml
 from recepcionProductos import *
 from rentabilidad import * 
 from KPIRentabilidad import *
+from KPILicitaciones import *
+from KPIInventario import * 
 with open('config.yaml', "r") as f:
     config = yaml.safe_load(f)
 
