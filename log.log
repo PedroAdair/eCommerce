@@ -2539,3 +2539,22 @@
 2024-06-14 11:56:08,208 - INFO - 192.168.100.13 - - [14/Jun/2024 11:56:08] "POST /KPI HTTP/1.1" 200 -
 2024-06-14 15:34:57,422 - INFO - 192.168.100.3 - - [14/Jun/2024 15:34:57] "POST /rentabilidad HTTP/1.1" 200 -
 2024-06-14 15:35:31,726 - INFO - 192.168.100.3 - - [14/Jun/2024 15:35:31] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-17 14:48:08,492 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-17 14:48:08,492 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 14:48:08,495 - INFO -  * Restarting with watchdog (inotify)
+2024-06-17 14:48:09,002 - WARNING -  * Debugger is active!
+2024-06-17 14:48:09,002 - INFO -  * Debugger PIN: 166-825-559
+2024-06-17 14:48:19,215 - INFO - 192.168.100.3 - - [17/Jun/2024 14:48:19] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-17 14:48:21,744 - INFO - 192.168.100.3 - - [17/Jun/2024 14:48:21] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-17 14:48:39,460 - INFO - 192.168.100.3 - - [17/Jun/2024 14:48:39] "POST /KPI HTTP/1.1" 200 -
+2024-06-17 14:50:06,589 - INFO - 192.168.100.3 - - [17/Jun/2024 14:50:06] "POST /KPI HTTP/1.1" 200 -
+2024-06-17 14:50:36,946 - INFO - 192.168.100.3 - - [17/Jun/2024 14:50:36] "POST /KPI HTTP/1.1" 200 -
+2024-06-17 15:27:39,455 - INFO - 192.168.100.3 - - [17/Jun/2024 15:27:39] "POST /KPI HTTP/1.1" 200 -
+2024-06-17 15:36:12,243 - INFO - 192.168.100.3 - - [17/Jun/2024 15:36:12] "POST /KPI HTTP/1.1" 200 -
+2024-06-17 15:46:41,378 - INFO - 192.168.100.3 - - [17/Jun/2024 15:46:41] "POST /KPI HTTP/1.1" 200 -
+2024-06-17 16:43:21,374 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-17 16:43:21,380 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/main.py', reloading
+2024-06-17 16:43:22,237 - INFO -  * Restarting with watchdog (inotify)
+2024-06-17 16:43:22,748 - WARNING -  * Debugger is active!
+2024-06-17 16:43:22,748 - INFO -  * Debugger PIN: 166-825-559
