@@ -15,6 +15,7 @@ CORS(app)
 @app.route('/KPI', methods=['POST'])
 def FirstPost():
     data = request.get_json()
+    print(data)
     result = eval(data['function'])(*data['parameters'].values())
     print(result)
     return jsonify(result),200

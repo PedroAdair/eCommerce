@@ -51,3 +51,17 @@ def consultaInventario():
     ]
     resultado = list(rentabilidad_solicitudLicitacion.aggregate(pipeline=pipeline))
     return resultado
+
+def getProduct(product_name:str):
+    """ 
+    obtener la informacion de un producto
+    """
+    eCommerce_inventario = [connection_url_SanManuel, ecommerce_main, 'inventario']
+    product = coneccionDB(*eCommerce_inventario).find_one({'nombreOriginal': product_name})
+    del product['_id']
+    # eCommerce_inventario = [connection_url_SanManuel, ecommerce_main, 'producto']
+    # product1 = coneccionDB(*eCommerce_inventario).find_one({'nombre': product_name})
+
+    # print(product1)
+    # product['foto'] = '/img/no-encontrado.png' 
+    return product

@@ -80,6 +80,6 @@ def consultaLicitaciones(initial_date:str, end_date:str):
     return resultado
 
 
-a =  consultaLicitaciones(initial_date='01-05-2024', end_date='01-06-2024')
-print(a)
+# a =  consultaLicitaciones(initial_date='01-05-2024', end_date='01-06-2024')
+# print(a)
 
