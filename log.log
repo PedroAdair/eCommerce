@@ -2959,3 +2959,166 @@
 2024-06-18 14:34:40,446 - INFO -  * Restarting with watchdog (inotify)
 2024-06-18 14:34:40,961 - WARNING -  * Debugger is active!
 2024-06-18 14:34:40,962 - INFO -  * Debugger PIN: 403-010-739
+2024-06-18 14:42:50,366 - INFO - 192.168.100.3 - - [18/Jun/2024 14:42:50] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 14:42:50,393 - INFO - 192.168.100.3 - - [18/Jun/2024 14:42:50] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 14:42:55,005 - INFO - 192.168.100.3 - - [18/Jun/2024 14:42:55] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 14:43:25,205 - INFO - 192.168.100.3 - - [18/Jun/2024 14:43:25] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 14:43:25,229 - INFO - 192.168.100.3 - - [18/Jun/2024 14:43:25] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 14:48:22,864 - INFO - 192.168.100.3 - - [18/Jun/2024 14:48:22] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 14:48:22,886 - INFO - 192.168.100.3 - - [18/Jun/2024 14:48:22] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 14:50:10,417 - INFO - 192.168.100.3 - - [18/Jun/2024 14:50:10] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 14:50:10,418 - INFO - 192.168.100.3 - - [18/Jun/2024 14:50:10] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 14:50:10,419 - INFO - 192.168.100.3 - - [18/Jun/2024 14:50:10] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 14:50:10,447 - INFO - 192.168.100.3 - - [18/Jun/2024 14:50:10] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 14:50:10,451 - INFO - 192.168.100.3 - - [18/Jun/2024 14:50:10] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 14:50:10,452 - INFO - 192.168.100.3 - - [18/Jun/2024 14:50:10] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,032 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,033 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,034 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,035 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,036 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,037 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,044 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,045 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,046 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,047 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,048 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,048 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,058 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,059 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,060 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,060 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,061 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,065 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,067 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,068 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,069 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,070 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,070 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,079 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,105 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,106 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,107 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,109 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,110 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,111 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,144 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,145 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,145 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,152 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,154 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,156 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,183 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,186 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,188 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,194 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,194 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,214 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,216 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,221 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,222 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,229 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,231 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:16:15,244 - INFO - 192.168.100.3 - - [18/Jun/2024 15:16:15] "POST /KPI HTTP/1.1" 200 -
+2024-06-18 15:28:15,940 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-18 15:28:15,941 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 15:28:15,944 - INFO -  * Restarting with watchdog (inotify)
+2024-06-18 15:28:16,446 - WARNING -  * Debugger is active!
+2024-06-18 15:28:16,446 - INFO -  * Debugger PIN: 403-010-739
+2024-06-19 09:10:24,666 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-19 09:10:24,666 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-19 09:10:24,669 - INFO -  * Restarting with watchdog (inotify)
+2024-06-19 09:10:25,158 - WARNING -  * Debugger is active!
+2024-06-19 09:10:25,158 - INFO -  * Debugger PIN: 137-714-518
+2024-06-19 09:10:56,800 - INFO - 192.168.100.3 - - [19/Jun/2024 09:10:56] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-19 09:11:26,273 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:11:26,280 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:11:26,425 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:11:26,427 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:11:26,874 - INFO -  * Restarting with watchdog (inotify)
+2024-06-19 09:11:27,366 - WARNING -  * Debugger is active!
+2024-06-19 09:11:27,366 - INFO -  * Debugger PIN: 137-714-518
+2024-06-19 09:11:31,382 - INFO - 192.168.100.3 - - [19/Jun/2024 09:11:31] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 09:11:37,622 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:11:37,627 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:11:37,800 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:11:37,802 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:11:37,982 - INFO -  * Restarting with watchdog (inotify)
+2024-06-19 09:11:38,479 - WARNING -  * Debugger is active!
+2024-06-19 09:11:38,479 - INFO -  * Debugger PIN: 137-714-518
+2024-06-19 09:11:39,557 - INFO - 192.168.100.3 - - [19/Jun/2024 09:11:39] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-19 09:27:06,926 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:27:06,932 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:27:07,098 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:27:07,100 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:27:07,238 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:27:07,239 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:27:07,453 - INFO -  * Restarting with watchdog (inotify)
+2024-06-19 09:27:07,959 - WARNING -  * Debugger is active!
+2024-06-19 09:27:07,960 - INFO -  * Debugger PIN: 137-714-518
+2024-06-19 09:27:19,016 - INFO - 192.168.100.3 - - [19/Jun/2024 09:27:19] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-19 09:30:09,535 - INFO - 192.168.100.3 - - [19/Jun/2024 09:30:09] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-19 09:30:56,948 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:30:56,954 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:30:57,091 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:30:57,093 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:30:57,635 - INFO -  * Restarting with watchdog (inotify)
+2024-06-19 09:30:58,143 - WARNING -  * Debugger is active!
+2024-06-19 09:30:58,143 - INFO -  * Debugger PIN: 137-714-518
+2024-06-19 09:30:59,371 - INFO - 192.168.100.3 - - [19/Jun/2024 09:30:59] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 09:31:55,971 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.100.11:4102
+2024-06-19 09:31:55,972 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-19 09:31:55,976 - INFO -  * Restarting with watchdog (inotify)
+2024-06-19 09:31:56,472 - WARNING -  * Debugger is active!
+2024-06-19 09:31:56,472 - INFO -  * Debugger PIN: 137-714-518
+2024-06-19 09:31:59,303 - INFO - 192.168.100.3 - - [19/Jun/2024 09:31:59] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 09:32:30,542 - INFO - 192.168.100.3 - - [19/Jun/2024 09:32:30] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-19 09:32:38,371 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:32:38,377 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:32:38,525 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:32:38,526 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:32:38,695 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:32:38,697 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:32:39,221 - INFO -  * Restarting with watchdog (inotify)
+2024-06-19 09:32:39,720 - WARNING -  * Debugger is active!
+2024-06-19 09:32:39,720 - INFO -  * Debugger PIN: 137-714-518
+2024-06-19 09:33:25,980 - INFO - 192.168.100.3 - - [19/Jun/2024 09:33:25] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 09:34:15,165 - INFO - 192.168.100.3 - - [19/Jun/2024 09:34:15] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-19 09:34:22,341 - INFO - 192.168.100.3 - - [19/Jun/2024 09:34:22] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-19 09:34:22,358 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:34:22,364 - INFO -  * Detected change in '/home/PedroSci/eCommerce/API/KPIInventario.py', reloading
+2024-06-19 09:34:22,898 - INFO -  * Restarting with watchdog (inotify)
+2024-06-19 09:34:23,397 - WARNING -  * Debugger is active!
+2024-06-19 09:34:23,397 - INFO -  * Debugger PIN: 137-714-518
+2024-06-19 09:34:27,914 - INFO - 192.168.100.3 - - [19/Jun/2024 09:34:27] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 09:51:22,216 - INFO - 192.168.100.3 - - [19/Jun/2024 09:51:22] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 09:52:03,209 - INFO - 192.168.100.3 - - [19/Jun/2024 09:52:03] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 09:52:06,938 - INFO - 192.168.100.3 - - [19/Jun/2024 09:52:06] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-19 09:58:48,047 - INFO - 192.168.100.3 - - [19/Jun/2024 09:58:48] "[35m[1mPOST /KPI HTTP/1.1[0m" 500 -
+2024-06-19 10:24:16,133 - INFO - 192.168.100.3 - - [19/Jun/2024 10:24:16] "POST /rentabilidad HTTP/1.1" 200 -
+2024-06-19 10:24:19,572 - INFO - 192.168.100.3 - - [19/Jun/2024 10:24:19] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 14:39:51,335 - INFO - 192.168.100.3 - - [19/Jun/2024 14:39:51] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 14:39:51,336 - INFO - 192.168.100.3 - - [19/Jun/2024 14:39:51] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 14:39:51,359 - INFO - 192.168.100.3 - - [19/Jun/2024 14:39:51] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 14:39:51,360 - INFO - 192.168.100.3 - - [19/Jun/2024 14:39:51] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 15:10:30,324 - INFO - 192.168.100.13 - - [19/Jun/2024 15:10:30] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 15:10:30,340 - INFO - 192.168.100.13 - - [19/Jun/2024 15:10:30] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 15:10:54,431 - INFO - 192.168.100.13 - - [19/Jun/2024 15:10:54] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 15:10:54,447 - INFO - 192.168.100.13 - - [19/Jun/2024 15:10:54] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 15:12:03,566 - INFO - 192.168.100.13 - - [19/Jun/2024 15:12:03] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 15:12:03,583 - INFO - 192.168.100.13 - - [19/Jun/2024 15:12:03] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 15:13:39,189 - INFO - 192.168.100.13 - - [19/Jun/2024 15:13:39] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 15:13:39,190 - INFO - 192.168.100.13 - - [19/Jun/2024 15:13:39] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 15:13:39,209 - INFO - 192.168.100.13 - - [19/Jun/2024 15:13:39] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 15:13:39,209 - INFO - 192.168.100.13 - - [19/Jun/2024 15:13:39] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 15:19:20,941 - INFO - 192.168.100.13 - - [19/Jun/2024 15:19:20] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 15:19:20,942 - INFO - 192.168.100.13 - - [19/Jun/2024 15:19:20] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 15:19:20,960 - INFO - 192.168.100.13 - - [19/Jun/2024 15:19:20] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 15:19:20,961 - INFO - 192.168.100.13 - - [19/Jun/2024 15:19:20] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 16:20:29,411 - INFO - 192.168.100.3 - - [19/Jun/2024 16:20:29] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 16:20:29,413 - INFO - 192.168.100.3 - - [19/Jun/2024 16:20:29] "OPTIONS /KPI HTTP/1.1" 200 -
+2024-06-19 16:20:29,440 - INFO - 192.168.100.3 - - [19/Jun/2024 16:20:29] "POST /KPI HTTP/1.1" 200 -
+2024-06-19 16:20:29,440 - INFO - 192.168.100.3 - - [19/Jun/2024 16:20:29] "POST /KPI HTTP/1.1" 200 -
