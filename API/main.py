@@ -12,6 +12,11 @@ with open('config.yaml', "r") as f:
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/first_get")
+def root():
+    return 'que aces',201 
+
+
 @app.route('/KPI', methods=['POST'])
 def FirstPost():
     data = request.get_json()
